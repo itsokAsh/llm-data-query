@@ -5,7 +5,7 @@ import { Card } from '@/components/ui/card';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { Send, Bot, User, MapPin, Clock, Info } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import placesData from '@/data/main.json';
+import { supabase } from '@/integrations/supabase/client';
 
 interface Message {
   id: string;
@@ -42,67 +42,6 @@ const ChatBot = () => {
     scrollToBottom();
   }, [messages]);
 
-  const findRelevantPlace = (query: string) => {
-    const queryLower = query.toLowerCase();
-    
-    return placesData.places.find(place => {
-      const nameMatch = place.name.toLowerCase().includes(queryLower);
-      const categoryMatch = place.category.some(cat => 
-        cat.toLowerCase().includes(queryLower) || queryLower.includes(cat.toLowerCase())
-      );
-      const infoMatch = place.info.toLowerCase().includes(queryLower);
-      const addressMatch = place.location.address.toLowerCase().includes(queryLower);
-      
-      return nameMatch || categoryMatch || infoMatch || addressMatch;
-    });
-  };
-
-  const generateResponse = (query: string) => {
-    const place = findRelevantPlace(query);
-    
-    if (!place) {
-      return {
-        content: "Sorry, that information is not available. I can only help with places and destinations in my knowledge base. Try asking about popular tourist spots, temples, monuments, or specific cities in India!",
-        placeData: null
-      };
-    }
-
-    const queryLower = query.toLowerCase();
-    
-    if (queryLower.includes('timing') || queryLower.includes('hours') || queryLower.includes('open')) {
-      const hoursInfo = Array.isArray(place.hours) 
-        ? place.hours.map(h => `${h.days}: ${h.open} - ${h.close}`).join(', ')
-        : 'Hours information not available';
-      return {
-        content: `⏰ **${place.name}** is open:\n${hoursInfo}`,
-        placeData: place
-      };
-    }
-    
-    if (queryLower.includes('address') || queryLower.includes('location') || queryLower.includes('where')) {
-      return {
-        content: `📍 **${place.name}** is located at:\n${place.location.address}`,
-        placeData: place
-      };
-    }
-    
-    if (queryLower.includes('amenities') || queryLower.includes('facilities')) {
-      const amenities = [];
-      if (place.amenities.family_friendly) amenities.push('Family Friendly');
-      if (place.amenities.pet_friendly) amenities.push('Pet Friendly');
-      
-      return {
-        content: `🏢 **${place.name}** amenities:\n${amenities.length ? amenities.join(', ') : 'Basic amenities available'}`,
-        placeData: place
-      };
-    }
-    
-    return {
-      content: `ℹ️ **${place.name}**\n\n${place.info}\n\n📍 ${place.location.address}`,
-      placeData: place
-    };
-  };
-
   const handleSendMessage = async () => {
     if (!input.trim()) return;
 
@@ -114,22 +53,41 @@ const ChatBot = () => {
     };
 
     setMessages(prev => [...prev, userMessage]);
+    const currentInput = input;
     setInput('');
     setIsTyping(true);
 
-    setTimeout(() => {
-      const response = generateResponse(input);
+    try {
+      const { data, error } = await supabase.functions.invoke('chat', {
+        body: { message: currentInput }
+      });
+
+      if (error) {
+        console.error('Error calling chat function:', error);
+        throw error;
+      }
+
       const botMessage: Message = {
         id: (Date.now() + 1).toString(),
         type: 'bot',
-        content: response.content,
+        content: data.reply || 'Sorry, I encountered an error processing your request.',
         timestamp: new Date(),
-        placeData: response.placeData,
+        placeData: data.places && data.places.length > 0 ? data.places[0] : null,
       };
 
       setMessages(prev => [...prev, botMessage]);
+    } catch (error) {
+      console.error('Error in chat:', error);
+      const errorMessage: Message = {
+        id: (Date.now() + 1).toString(),
+        type: 'bot',
+        content: 'Sorry, I encountered an error processing your request. Please try again.',
+        timestamp: new Date(),
+      };
+      setMessages(prev => [...prev, errorMessage]);
+    } finally {
       setIsTyping(false);
-    }, 1000);
+    }
   };
 
   const handleKeyPress = (e: React.KeyboardEvent) => {
@@ -198,35 +156,32 @@ const ChatBot = () => {
                         <div className="flex items-center gap-2">
                           <Clock className="w-3 h-3 text-muted-foreground" />
                           <span className="text-muted-foreground">
-                            {Array.isArray(message.placeData.hours) && message.placeData.hours[0] 
-                              ? `${message.placeData.hours[0].open} - ${message.placeData.hours[0].close}`
-                              : 'Hours vary'}
+                            {message.placeData.timings || 'Hours not available'}
                           </span>
                         </div>
                         
                         <div className="flex items-center gap-2">
                           <Info className="w-3 h-3 text-muted-foreground" />
-                          <div className="flex gap-1">
-                            {message.placeData.amenities.family_friendly && (
-                              <span className="bg-secondary px-2 py-1 rounded text-xs">Family Friendly</span>
-                            )}
-                            {message.placeData.amenities.pet_friendly && (
-                              <span className="bg-secondary px-2 py-1 rounded text-xs">Pet Friendly</span>
-                            )}
+                          <div className="flex gap-1 flex-wrap">
+                            {Array.isArray(message.placeData.amenities) && message.placeData.amenities.map((amenity: string, index: number) => (
+                              <span key={index} className="bg-secondary px-2 py-1 rounded text-xs">
+                                {amenity}
+                              </span>
+                            ))}
                           </div>
                         </div>
                       </div>
                       
-                      {message.placeData.map_link && (
-                        <Button
-                          variant="outline"
-                          size="sm"
-                          className="w-full"
-                          onClick={() => window.open(message.placeData.map_link, '_blank')}
-                        >
-                          <MapPin className="w-3 h-3 mr-1" />
-                          View on Map
-                        </Button>
+                      {message.placeData.location && (
+                        <div className="text-xs text-muted-foreground">
+                          📍 {message.placeData.location}
+                        </div>
+                      )}
+                      
+                      {message.placeData.description && (
+                        <div className="text-xs text-muted-foreground">
+                          {message.placeData.description}
+                        </div>
                       )}
                     </div>
                   </Card>
