@@ -1,0 +1,3551 @@
+{
+  "places": [
+    {
+      "id": "jama_masjid_delhi",
+      "name": "Jama Masjid, Delhi",
+      "category": [
+        "religious_site",
+        "mosque",
+        "historical_site"
+      ],
+      "location":{"address":"Behind Red Fort, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "07:00",
+          "close": "12:00"
+        },
+        {
+          "days": "Daily",
+          "open": "13:30",
+          "close": "18:30"
+        }
+      ],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "Jama Masjid, built by Mughal Emperor Shah Jahan in 1656, is one of the largest mosques in India and a key historical landmark located in Old Delhi.",
+      "map_link": "https://www.google.com/maps/place/Jama+Masjid/@28.6506792,77.2308672,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd18df89b215:0xdd57369e29bf9d96!8m2!3d28.6506792!4d77.2334421!16zL20vMDR5emo1?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "scams": "Beware of unofficial guides demanding high fees or charging for entry (entry is free, but camera use may have a fee).",
+        "safety": "Safe during the day with regular crowds; exercise caution with belongings in busy areas.",
+        "security": "Security checks at entrances; visitors may be frisked and bags inspected.",
+        "allowed": [
+          "Photography (may require small fee)",
+          "Tourist entry outside prayer times",
+          "Carrying water bottles"
+        ],
+        "prohibited": [
+          "Entry during prayer for non-Muslims",
+          "Pets",
+          "Inappropriate attire (shorts, sleeveless tops)",
+          "Footwear inside prayer areas"
+        ],
+        "crowd_review": "Very crowded during Fridays, Eid, and festivals; moderate on weekdays.",
+        "staff_behavior": "Mosque staff are generally helpful but may strictly enforce dress codes and rules.",
+        "maintenance": "Structure is centuries old but regularly maintained by Waqf Board.",
+        "cleanliness": "Courtyard generally clean; some litter possible due to heavy crowds.",
+        "traffic": "Surrounding area (Old Delhi/Chandni Chowk) is congested; best accessed on foot or via metro + rickshaw.",
+        "women_safety": "Safe during the day in groups; solo women travelers should dress modestly and avoid late evening visits.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Mobile networks available; may be patchy in crowded areas.",
+        "activity_type": [
+          "Sightseeing",
+          "Religious visit",
+          "Photography"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Delhi Tourism",
+        "Waqf Board notices",
+        "Local visitor reports"
+      ]
+    },
+    {
+      "id": "raj_ghat_delhi",
+      "name": "Raj Ghat",
+      "category": [
+        "memorial",
+        "historical_site",
+        "park"
+      ],
+      "location": {"address":"Behind Red Fort, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "06:30",
+          "close": "18:00"
+        }
+      ],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "Raj Ghat is the memorial dedicated to Mahatma Gandhi, marking the spot of his cremation on 31 January 1948. It is surrounded by landscaped gardens and visited by dignitaries and tourists alike.",
+      "map_link": "https://www.google.com/maps/place/Rajghat+Memorial/@28.6405774,77.246896,16.96z/data=!4m6!3m5!1s0x390cfcdafe80dca3:0x1a5978757d31b6ef!8m2!3d28.6406214!4d77.2495002!16zL20vMDd3MjU1?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "scams": "Occasional touts may offer unnecessary guiding services or overpriced souvenirs outside the complex.",
+        "safety": "Generally safe; well-patrolled and quiet environment.",
+        "security": "Security screening at the entrance; CISF/Delhi Police presence.",
+        "allowed": [
+          "Photography in open areas",
+          "Carrying water bottles",
+          "Footwear in outer gardens (must be removed at the memorial platform)"
+        ],
+        "prohibited": [
+          "Loud behavior or disturbances",
+          "Food inside memorial areas",
+          "Pets"
+        ],
+        "crowd_review": "Peaceful on weekdays; moderate crowds on weekends, national holidays, and Gandhi Jayanti.",
+        "staff_behavior": "Staff are respectful and maintain decorum of the site.",
+        "maintenance": "Gardens and memorial platform are well maintained.",
+        "cleanliness": "Clean and well-kept; dedicated cleaning staff.",
+        "traffic": "Nearby Ring Road can be busy; parking is available but fills quickly on holidays.",
+        "women_safety": "Safe during open hours; serene environment suitable for families and solo travelers.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Good mobile network coverage.",
+        "activity_type": [
+          "Memorial visit",
+          "Sightseeing",
+          "Peaceful walks"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Delhi Tourism",
+        "Government of India cultural sites",
+        "Visitor reports"
+      ]
+    },
+    {
+      "id": "gurudwara_sis_ganj_sahib",
+      "name": "Gurudwara Sis Ganj Sahib",
+      "category": [
+        "religious_site",
+        "gurudwara",
+        "historical_site"
+      ],
+      "location": {"address":"Chandni Chowk Rd, Maliwara, Chatta Pratap, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "04:00",
+          "close": "22:00"
+        }
+      ],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "Gurudwara Sis Ganj Sahib, built in 1783, commemorates the martyrdom site of Guru Tegh Bahadur, the ninth Sikh Guru. It is one of the nine historical gurdwaras in Delhi and a key religious and cultural landmark.",
+      "map_link": "https://www.google.com/maps/place/Gurudwara+Sis+Ganj+Sahib/@28.6559878,77.1666434,13z/data=!4m10!1m2!2m1!1sgurudwara+sis+ganj+sahib!3m6!1s0x390cfd1baf5397b9:0x9d337afc1acad068!8m2!3d28.6559878!4d77.2325614!15sChhndXJ1ZHdhcmEgc2lzIGdhbmogc2FoaWJaGiIYZ3VydWR3YXJhIHNpcyBnYW5qIHNhaGlikgELc2lraF90ZW1wbGWqAUEQATIfEAEiG8y1EHGGeVyNa23GQ22CgNF-e2zQZVvaDzkFFzIcEAIiGGd1cnVkd2FyYSBzaXMgZ2FuaiBzYWhpYuABAA!16s%2Fg%2F1jljyf3db?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "scams": "Some touts outside may try to sell unnecessary offerings or parking services; entry and langar are always free.",
+        "safety": "Safe and welcoming environment with continuous flow of devotees.",
+        "security": "Security checks at the entrance; volunteers and guards on duty.",
+        "allowed": [
+          "Head covering required (scarves provided at entrance)",
+          "Photography outside the main sanctum",
+          "Participation in langar (community meal)"
+        ],
+        "prohibited": [
+          "Smoking or alcohol",
+          "Footwear inside (shoe deposit available)",
+          "Photography inside prayer hall"
+        ],
+        "crowd_review": "Busy during mornings, evenings, and Sikh festivals; steady flow of visitors during the day.",
+        "staff_behavior": "Sevaks (volunteers) are respectful, helpful, and ensure decorum.",
+        "maintenance": "Well-maintained with continuous volunteer-led cleaning.",
+        "cleanliness": "Clean despite heavy footfall; langar hall and prayer area are hygienic.",
+        "traffic": "Located on Chandni Chowk road; high traffic congestion, best accessed by metro + walking/rickshaw.",
+        "women_safety": "Safe environment for women, families, and solo visitors.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Mobile network available but may be patchy due to dense buildings in Chandni Chowk.",
+        "activity_type": [
+          "Religious visit",
+          "Historical site",
+          "Community meal"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Delhi Tourism",
+        "Delhi Sikh Gurdwara Management Committee",
+        "Visitor reports"
+      ]
+    },
+    {
+      "id": "feroz_shah_kotla_fort",
+      "name": "Feroz Shah Kotla Fort",
+      "category": [
+        "fort",
+        "historical_site",
+        "monument"
+      ],
+      "location": {"address":"Balmiki Basti, Vikram Nagar, New Delhi, Delhi, 110002"},
+      "hours": [
+        {
+          "days": "Tuesday-Sunday",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "Feroz Shah Kotla Fort, built in 1354 by Sultan Feroz Shah Tughlaq, contains ruins of palaces, mosques, and the Ashokan Pillar. It is an important medieval Delhi landmark and part of Tughlaq-era history.",
+      "map_link": "https://www.google.com/maps/place/Feroz+Shah+Kotla/@28.6221435,77.237777,14.52z/data=!4m6!3m5!1s0x390cfcd722979b5b:0x780ad31b2b00daf8!8m2!3d28.6349159!4d77.2433053!16zL20vMDZtNmdm?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "scams": "Some touts may pose as guides; verify official guides and ticket counters.",
+        "safety": "Generally safe during day; some isolated areas may feel deserted, advisable to visit in groups.",
+        "security": "ASI-managed site with ticketed entry and basic security checks.",
+        "allowed": [
+          "Photography for personal use",
+          "Guided tours with ASI-approved guides"
+        ],
+        "prohibited": [
+          "Climbing on ruins",
+          "Littering",
+          "Unauthorized drone use"
+        ],
+        "crowd_review": "Moderately crowded on weekends; peaceful on weekdays. Popular for Thursday evening prayers at the mosque within.",
+        "staff_behavior": "ASI staff available at entry; guides available for hire.",
+        "maintenance": "Some structures show signs of age but site is maintained by ASI.",
+        "cleanliness": "Fairly clean in main areas; some corners may have litter.",
+        "traffic": "Located near ITO; heavy traffic during office hours. Limited parking available.",
+        "women_safety": "Safe during visiting hours; avoid isolated corners if alone.",
+        "bookings": {
+          "onsite": true,
+          "online": true,
+          "online_url": "https://asi.payumoney.com/"
+        },
+        "network": "Mobile networks generally available, though weaker inside ruins.",
+        "activity_type": [
+          "Sightseeing",
+          "Photography",
+          "Historical exploration"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "ASI official site",
+        "Delhi Tourism",
+        "Visitor reports"
+      ]
+    },
+    {
+      "id": "hotel_ajanta_delhi",
+      "name": "Hotel Ajanta",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.22
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Ajanta+-+Free+Airport+Pick+Up+Service/@28.6457644,77.0841078,12z/data=!4m13!1m2!2m1!1sHotel+Ajanta!3m9!1s0x390cfd3f8c9b967d:0x1fcd0b2c268cc8d2!5m2!4m1!1i2!8m2!3d28.6457644!4d77.2159437!15sCgxIb3RlbCBBamFudGFaDiIMaG90ZWwgYWphbnRhkgEFaG90ZWyqAUYQASoQIgxob3RlbCBhamFudGEoADIeEAEiGvEqQRe7kWauABsPT2_uLbc-pp12GU39CQZ1MhAQAiIMaG90ZWwgYWphbnRh4AEA!16s%2Fg%2F1td4hhkk?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2314,
+          "max": null
+        },
+        "rating": 3.9,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "hotel_gold_regency_delhi",
+      "name": "Hotel Gold Regency",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.6395,
+        "lng": 77.2106
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Gold+Regency/@28.6415401,77.2144301,17z/data=!3m1!4b1!4m9!3m8!1s0x390cfd40dac111b5:0xc2f132763c008d51!5m2!4m1!1i2!8m2!3d28.6415401!4d77.217005!16s%2Fg%2F1tf1m62q?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2643,
+          "max": null
+        },
+        "rating": 4.4,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "hotel_ritz_delhi",
+      "name": "Hotel Ritz",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.6453,
+        "lng": 77.2169
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Ritz/@28.6453256,77.2143044,17z/data=!3m1!4b1!4m9!3m8!1s0x390cfda4fd656c5b:0x2ebcf9fc937a985c!5m2!4m1!1i2!8m2!3d28.6453256!4d77.2168793!16s%2Fg%2F11fmy_bfly?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2400,
+          "max": null
+        },
+        "rating": 4.1,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "justdial.com"
+      ]
+    },
+    {
+      "id": "mgm_club_society_delhi",
+      "name": "Mgm Club Society",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Mgm+Club+Society/@28.64657,77.2408655,17.2z/data=!4m9!3m8!1s0x390cfcd9334eace5:0xb56d700c8cdb9ad9!5m2!4m1!1i2!8m2!3d28.6465238!4d77.2433063!16s%2Fg%2F11btwkby4l?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2703,
+          "max": null
+        },
+        "rating": 3.6,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "deccangymkhana.co.in"
+      ]
+    },
+    {
+      "id": "hotel_tara_palace_chandni_chowk_delhi",
+      "name": "Hotel Tara Palace chandni chowk",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Tara+Palace+Chandni+Chowk/@28.6542772,77.2319603,17z/data=!3m1!4b1!4m9!3m8!1s0x390cfd19aaaaaaed:0x2db1789a2c4f6a3a!5m2!4m1!1i2!8m2!3d28.6542772!4d77.2345352!16s%2Fg%2F1tdc854v?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2379,
+          "max": null
+        },
+        "rating": 3.8,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": null
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "agoda.com"
+      ]
+    },
+    {
+      "id": "hotel_green_castle_delhi",
+      "name": "Hotel Green Castle",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.67,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Green+Castle+(Heritage+Hotel+overlooking+two+protected+monuments)/@28.6663422,77.2267337,17z/data=!3m1!4b1!4m9!3m8!1s0x390cfd08944e7641:0x7938ab6a88dadf1a!5m2!4m1!1i2!8m2!3d28.6663422!4d77.2293086!16s%2Fg%2F1tctk4ty?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2335,
+          "max": null
+        },
+        "rating": 3.8,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": false
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "the_metrostay_delhi",
+      "name": "The metrostay Delhi",
+      "category": [
+        "hotel",
+        "hostel"
+      ],
+      "location": {
+        "lat": 28.6419,
+        "lng": 77.2242
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/The+Metrostay+Delhi/@28.6418623,77.2216709,17z/data=!3m2!4b1!5s0x1200aa780a78a9d9:0xea1fba5cebbbbd08!4m9!3m8!1s0x390cfded0e98aea7:0x7c7bd7df94ae89e9!5m2!4m1!1i2!8m2!3d28.6418623!4d77.2242458!16s%2Fg%2F11wy5rmg1k?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 688,
+          "max": null
+        },
+        "rating": 4.5,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "hotel_ishaan_residency_delhi",
+      "name": "Hotel ishaan residency",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.24
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Ishaan+Residency+%5BMGM+CLUB%5D/@28.6464414,77.2405785,17z/data=!4m10!3m9!1s0x390cfd29e228a8e3:0x3956fe35fe29fe3e!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6464414!4d77.2431534!16s%2Fg%2F11wk2gmb__?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 1995,
+          "max": null
+        },
+        "rating": 4.2,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "hotel_tara_palace_daryaganj_delhi",
+      "name": "hotel tara palace daryaganj",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.24
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": false
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Tara+Palace+Daryaganj/@28.6495864,77.2407618,17z/data=!4m10!3m9!1s0x390cfce0628445f3:0xdd4958a29ec93fdb!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6495864!4d77.2433367!16s%2Fg%2F11c0vkhvds?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2880,
+          "max": null
+        },
+        "rating": 3.6,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "easemytrip.com"
+      ]
+    },
+    {
+      "id": "the_comfort_inn_delhi",
+      "name": "the comfort inn",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.6597,
+        "lng": 77.2385
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": false
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/The+Comfort+Inn/@28.6544755,77.1604147,13z/data=!4m17!1m5!2m4!1sComfort+Inn!5m2!5m1!1s2025-08-30!3m10!1s0x390cfd5126adf15b:0xc813693058334f2e!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6544755!4d77.2263327!15sCgtDb21mb3J0IElubiIDiAEBkgELZ3Vlc3RfaG91c2WqAVAKCi9tLzBjMWdrd2QQASoPIgtjb21mb3J0IGlubigAMh4QASIahbsoAvQAfpubeZchgOG9AOSgvhJrwWomzAQyDxACIgtjb21mb3J0IGlubuABAA!16s%2Fg%2F11k4_34dkl?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 1646,
+          "max": null
+        },
+        "rating": 3.3,
+        "amenities": {
+          "wifi": true,
+          "ac": false,
+          "breakfast": true,
+          "parking": false
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "haveli_dharampura_delhi",
+      "name": "haveli dharampura",
+      "category": [
+        "hotel",
+        "heritage_hotel"
+      ],
+      "location": {
+        "lat": 28.6534,
+        "lng": 77.2323
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Haveli+Dharampura/@28.6534175,77.2296755,17z/data=!4m10!3m9!1s0x390cfd197dd6fb4b:0x749b9a5abf91404b!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6534175!4d77.2322504!16s%2Fg%2F11g0289gzb?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 11118,
+          "max": null
+        },
+        "rating": 4.1,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "wikipedia.org",
+        "secret-retreats.com"
+      ]
+    },
+    {
+      "id": "hotel_royal_palace_delhi",
+      "name": "hotel Royal Palace",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Royal+Palace/@28.6516773,77.2300079,17z/data=!3m1!4b1!4m10!3m9!1s0x390cfd190f0912d1:0xb619650e4f485eac!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6516773!4d77.2325828!16s%2Fg%2F11rk83zm0z?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2000,
+          "max": null
+        },
+        "rating": 3.2,
+        "amenities": {
+          "wifi": true,
+          "ac": false,
+          "breakfast": true,
+          "parking": false
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "agoda.com"
+      ]
+    },
+    {
+      "id": "hotel_bukhara_inn_delhi",
+      "name": "Hotel Bukhara inn",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": false
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Bukhara+Inn/@28.6516418,77.2303114,17z/data=!4m10!3m9!1s0x390cfd192f485bb7:0x867fe17f2c2930c4!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6516418!4d77.2328863!16s%2Fg%2F11b6dq5flk?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": null,
+          "max": null
+        },
+        "rating": 3.8,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": false,
+          "parking": false
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "kayak.com"
+      ]
+    },
+    {
+      "id": "hotel_royal_afghan_delhi",
+      "name": "hotel royal Afghan",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.24
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Royal+Afghan/@28.6458923,77.2376123,17z/data=!4m10!3m9!1s0x390cfd207ebce86d:0x28f47149ff0ec5ea!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6458923!4d77.2401872!16s%2Fg%2F12q4wqd20?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 1436,
+          "max": null
+        },
+        "rating": 3.2,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "hotel_aiwan_e_shani_delhi",
+      "name": "Hotel Aiwan E Shani",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": 28.65,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Hotel+Aiwan+E+Shahi/@28.6516783,77.2301099,17z/data=!4m10!3m9!1s0x390cfd19119c53d5:0x7f0302bcc4137db5!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6516783!4d77.2326848!16s%2Fg%2F11cs3ym8sm?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 2390,
+          "max": null
+        },
+        "rating": 3.8,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id": "shyama_inn_delhi",
+      "name": "Shyama inn",
+      "category": [
+        "hotel"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Shyama+Inn/@28.646864,77.2382031,17.21z/data=!4m10!3m9!1s0x390cfd20752d7f9b:0x608c7154270d1760!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6470864!4d77.2404254!16s%2Fg%2F12mkw9b_0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 1443,
+          "max": null
+        },
+        "rating": 4.0,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "trivago.in"
+      ]
+    },
+    {
+      "id": "homestay_ac_dormitory_delhi",
+      "name": "Homestay Ac Dormitory",
+      "category": [
+        "hostel",
+        "homestay"
+      ],
+      "location": {
+        "lat": 28.67,
+        "lng": 77.23
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": false
+      },
+      "info": null,
+      "map_link": "https://www.google.com/maps/place/Homestay+AC+Dormitory/@28.6667372,77.2282469,17z/data=!3m1!4b1!4m10!3m9!1s0x390cfdfb1f963c41:0x3d534c08180f8058!5m3!1s2025-08-30!4m1!1i2!8m2!3d28.6667372!4d77.2308218!16s%2Fg%2F11j3rfmc8t?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "price_range_inr": {
+          "min": 1271,
+          "max": null
+        },
+        "rating": 3.8,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "easemytrip.com"
+      ]
+    },
+    {
+      "id": "jinis_cottage_delhi",
+      "name": "Jinis Cottage",
+      "category": [
+        "hotel",
+        "homestay"
+      ],
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": null,
+      "map_link": null,
+      "extra": {
+        "price_range_inr": {
+          "min": null,
+          "max": null
+        },
+        "rating": 4.3,
+        "amenities": {
+          "wifi": true,
+          "ac": true,
+          "breakfast": true,
+          "parking": true
+        },
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "goibibo.com"
+      ]
+    },
+    {
+      "id":"markets_near_redfort",
+      "name": "Markets near Red Fort",
+      "category": ["market", "shopping", "bazaar","handicrafts","cultural"],
+      "location": null,
+      "hours": [],
+      "amenities": {
+        "pet_friendly": null,
+        "family_friendly": null
+      },
+      "info":"An open-air handicrafts market showcasing Indian art, textiles, and regional food stalls. Popular with families and tourists looking for authentic souvenirs."
+,
+      "map_link": null,
+      "extra": {
+        "description": "User wants to shop (shopping, markets, bazaar, buy, purchase) near Red Fort.",
+        "markets": [
+          {
+            "name": "Chandni Chowk",
+            "goods": [
+              "textiles",
+              "electronics",
+              "food",
+              "clothes",
+              "shoes",
+              "books"
+            ],
+            "opening_hours": "approx. 10:00–20:00",
+            "closed_days": [
+              "Sunday (most shops)"
+            ],
+            "shopping_practices": "bargaining expected; very crowded; pickpocket risk",
+            "map_link": "https://www.google.com/maps/place/Chandni+Chowk,+Delhi"
+          },
+          {
+            "name": "Chhatta Chowk",
+            "goods": [
+              "souvenirs",
+              "handicrafts",
+              "incense",
+              "textiles"
+            ],
+            "opening_hours": "same as Red Fort",
+            "closed_days": [
+              "Monday"
+            ],
+            "shopping_practices": "inside Red Fort, part of its timings; bargaining common",
+            "map_link": "https://www.google.com/maps/place/Chhatta+Chowk,+Red+Fort,+Delhi"
+          },
+          {
+            "name": "Meena Bazaar",
+            "goods": [
+              "jewelry",
+              "handicrafts"
+            ],
+            "opening_hours": "9:30–16:30",
+            "closed_days": [
+              "Monday"
+            ],
+            "shopping_practices": "bargaining customary",
+            "map_link": "https://www.google.com/maps/place/Meena+Bazaar,+Delhi"
+          },
+          {
+            "name": "Dariba Kalan",
+            "goods": [
+              "costume jewelry",
+              "attar/perfumes",
+              "silverware"
+            ],
+            "opening_hours": "similar to Chandni Chowk timings",
+            "closed_days": [
+              "Some sections closed Sundays"
+            ],
+            "shopping_practices": "bargaining; traditional market vibe",
+            "map_link": "https://www.google.com/maps/place/Dariba+Kalan,+Delhi"
+          },
+          {
+            "name": "Khari Baoli",
+            "goods": [
+              "spices",
+              "dry fruits",
+              "nuts",
+              "tea",
+              "herbs"
+            ],
+            "opening_hours": "approx. 10:00–20:00",
+            "closed_days": [
+              "Sunday (mostly closed)"
+            ],
+            "shopping_practices": "wholesale market; bargaining expected",
+            "map_link": "https://www.google.com/maps/place/Khari+Baoli,+Delhi"
+          },
+          {
+            "name": "Nai Sarak",
+            "goods": [
+              "books",
+              "stationery",
+              "paper goods"
+            ],
+            "opening_hours": "Chandni Chowk hours (approx.)",
+            "closed_days": [
+              "Sunday"
+            ],
+            "shopping_practices": "bargaining often possible",
+            "map_link": "https://www.google.com/maps/place/Nai+Sarak,+Delhi"
+          },
+          {
+            "name": "Chawri Bazaar",
+            "goods": [
+              "wedding cards",
+              "greeting cards",
+              "plumbing items"
+            ],
+            "opening_hours": "similar to adjacent markets",
+            "closed_days": [
+              "Sunday"
+            ],
+            "shopping_practices": "standard local market style",
+            "map_link": "https://www.google.com/maps/place/Chawri+Bazar,+Delhi"
+          },
+          {
+            "name": "Daryaganj (Sunday Book Market)",
+            "goods": [
+              "second-hand books",
+              "magazines",
+              "collectibles"
+            ],
+            "opening_hours": "Sunday only, daytime",
+            "closed_days": [
+              "Monday–Saturday"
+            ],
+            "shopping_practices": "street vendor setup; negotiation possible",
+            "map_link": "https://www.google.com/maps/place/Daryaganj,+Delhi"
+          },
+          {
+            "name": "Ambience Mall Vasant Kunj (example mall, larger distance)",
+            "goods": [
+              "international brands",
+              "electronics",
+              "fashion",
+              "food court",
+              "cinema"
+            ],
+            "opening_hours": "11:00–22:00",
+            "closed_days": [
+              "Open all days"
+            ],
+            "shopping_practices": "fixed prices; modern mall experience",
+            "map_link": "https://www.google.com/maps/place/Ambience+Mall+Vasant+Kunj,+Delhi"
+          },
+          {
+            "name": "DLF City Centre Mall (Shalimar Bagh, nearer option)",
+            "goods": [
+              "fashion",
+              "food court",
+              "electronics",
+              "lifestyle brands"
+            ],
+            "opening_hours": "11:00–22:00",
+            "closed_days": [
+              "Open all days"
+            ],
+            "shopping_practices": "fixed prices; modern mall shopping",
+            "map_link": "https://www.google.com/maps/place/DLF+City+Centre,+Shalimar+Bagh,+Delhi"
+          },
+          {
+            "name": "Connaught Place (outer/inner circle shopping hub)",
+            "goods": [
+              "branded stores",
+              "books",
+              "electronics",
+              "restaurants",
+              "cafes"
+            ],
+            "opening_hours": "10:00–21:00",
+            "closed_days": [
+              "Varies by shop; many shut on Sunday evenings"
+            ],
+            "shopping_practices": "mostly fixed prices; some bargaining in street-side shops",
+            "map_link": "https://www.google.com/maps/place/Connaught+Place,+Delhi"
+          }
+        ],
+        "example_user_queries": [
+          "What markets are close to Red Fort for shopping?",
+          "Where can I buy spices near Red Fort?",
+          "Any jewelry shops near Red Fort where I don’t have to bargain?",
+          "When does Meena Bazaar open and close?",
+          "Is the Sunday book market at Daryaganj nearby?",
+          "Which markets are closed on Mondays or Sundays near Red Fort?",
+          "Where can I find wedding card shops near Red Fort?"
+        ]
+      },
+      "sources": []
+    },
+    {
+      "id": "family_activiy",
+      "name": "family fun activity",
+      "category": ["for children","fun activity with family"],
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "If you got bored from redfort you should try these places",
+      "map_link": null,
+      "extra": {
+        "activities": [
+          {
+            "name": "Red Fort Light & Sound Show",
+            "type": "cultural",
+            "description": "Evening sound and light show narrating the history of the fort and Delhi.",
+            "opening_hours": "7:00 PM – 8:30 PM (Hindi), 9:00 PM – 10:30 PM (English)",
+            "closed_days": [
+              "Monday"
+            ],
+            "age_suitability": "All ages (kids enjoy lights & narration)",
+            "family_notes": "Bring light snacks and mosquito repellent; seating is outdoors.",
+            "map_link": "https://www.google.com/maps/place/Red+Fort,+Delhi"
+          },
+          {
+            "name": "Jama Masjid Visit",
+            "type": "heritage",
+            "description": "India’s largest mosque, a short walk from Red Fort; kids enjoy climbing the minaret for city views.",
+            "opening_hours": "7:00 AM – 12:00 PM, 1:30 PM – 6:30 PM",
+            "closed_days": [
+              "Open all days"
+            ],
+            "age_suitability": "Children 5+ (minaret climb not for very young kids)",
+            "family_notes": "Modest clothing required; remove shoes. Minaret climb has steep stairs.",
+            "map_link": "https://www.google.com/maps/place/Jama+Masjid,+Delhi"
+          },
+          {
+            "name": "Chandni Chowk Rickshaw Ride",
+            "type": "cultural/market",
+            "description": "Cycle rickshaw ride through Chandni Chowk lanes to explore markets, snacks, and sights.",
+            "opening_hours": "10:00 AM – 8:00 PM",
+            "closed_days": [
+              "Sunday (most shops closed)"
+            ],
+            "age_suitability": "All ages; fun for children but hold tight",
+            "family_notes": "Best done in morning or evening to avoid crowds and heat.",
+            "map_link": "https://www.google.com/maps/place/Chandni+Chowk,+Delhi"
+          },
+          {
+            "name": "Raj Ghat",
+            "type": "memorial/garden",
+            "description": "Mahatma Gandhi’s memorial surrounded by peaceful gardens, about 1.5 km from Red Fort.",
+            "opening_hours": "6:30 AM – 6:00 PM",
+            "closed_days": [
+              "Open all days"
+            ],
+            "age_suitability": "All ages",
+            "family_notes": "Calm and green; good for kids to walk and relax.",
+            "map_link": "https://www.google.com/maps/place/Raj+Ghat,+Delhi"
+          },
+          {
+            "name": "Shankar’s International Dolls Museum",
+            "type": "museum",
+            "description": "Famous collection of 6,000+ dolls from around the world; popular with children.",
+            "opening_hours": "10:00 AM – 5:30 PM",
+            "closed_days": [
+              "Monday"
+            ],
+            "age_suitability": "Best for ages 3–12",
+            "family_notes": "Small entry fee; allow 1–2 hours.",
+            "map_link": "https://www.google.com/maps/place/Shankar%27s+International+Dolls+Museum,+Delhi"
+          },
+          {
+            "name": "National Rail Museum (slightly farther, Chanakyapuri)",
+            "type": "museum",
+            "description": "Interactive railway history museum with toy train rides for kids.",
+            "opening_hours": "10:00 AM – 5:00 PM",
+            "closed_days": [
+              "Monday"
+            ],
+            "age_suitability": "Children 3+",
+            "family_notes": "Toy train ride is the highlight for families.",
+            "map_link": "https://www.google.com/maps/place/National+Rail+Museum,+Delhi"
+          }
+        ],
+        "example_user_queries": [
+          "What family friendly activities are near Red Fort?",
+          "Is there a light and sound show at Red Fort?",
+          "Where can I take kids near Red Fort?",
+          "Are there museums for children nearby?",
+          "Can we do a rickshaw ride in Chandni Chowk with family?",
+          "Is Jama Masjid child friendly?",
+          "Which places are open on Monday for families near Red Fort?"
+        ]
+      },
+      "sources": []
+    },
+    {
+      "id": "atm",
+      "name": "Atm Machines near Red Fort",
+      "category": ["atm of different banks","atm near red fort"],
+      "hours": [],
+      "amenities": {
+        "pet_friendly": false,
+        "family_friendly": true
+      },
+      "info": "All the banks that are nearby redfort",
+      "extra": {
+        "anchor": {
+          "name": "Red Fort",
+          "center": {
+            "lat": 28.6562,
+            "lng": 77.241,
+            "zoom": 16
+          },
+          "map_link": "https://www.google.com/maps/place/Red+Fort/@28.6545037,77.233259,16z/data=!4m10!1m2!2m1!1sredfort!3m6!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203!15sCgdyZWRmb3J0WgkiB3JlZGZvcnSSAQhmb3J0cmVzc6oBLxABMh4QASIaoggRdJ8CXqK-jxG_dEnGgb6PldigqsUJ8tYyCxACIgdyZWRmb3J04AEA!16zL20vMDVteXN2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+        },
+        "atms": [
+          {
+            "bank": "State Bank of India (SBI)",
+            "name": "SBI ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/State+Bank+ATM/@28.6498739,77.2355133,17.5z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd1f8346447b:0xc99f48ea786fc6a4!8m2!3d28.6489472!4d77.2379452!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F1hm4_0kbm?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "Punjab National Bank (PNB)",
+            "name": "PNB ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/Punjab+National+Bank+ATM/@28.6571199,77.2225846,16z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd1b1e38ed07:0x970d08febb126f8a!8m2!3d28.6571199!4d77.2321118!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F1jkxpz2pr?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "HDFC Bank",
+            "name": "HDFC ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/HDFC+Bank+ATM/@28.6571199,77.2225846,16z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfdb0cef52807:0xca582807c6bde8e2!8m2!3d28.6516194!4d77.2376253!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11whzxc6h6?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "ICICI Bank",
+            "name": "ICICI ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/ICICI+Bank+ATM/@28.6447364,77.2387237,17z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfcdf1992541d:0x1694c44121bd83c1!8m2!3d28.6447364!4d77.2428436!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11c2j8q_9g?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "Axis Bank",
+            "name": "Axis Bank ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/Axis+Bank+ATM/@28.6571199,77.2225846,16z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd89cbbc5a5f:0xbd1f6f072ab7a9ef!8m2!3d28.65809!4d77.23554!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11vw_spph9?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "Bank of Baroda (BoB)",
+            "name": "BoB ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/Bank+of+Baroda+ATM/@28.656595,77.2311731,17z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfdb357387917:0x371c1a1877350cc4!8m2!3d28.656595!4d77.235293!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11j5h53rk9?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "Kotak Mahindra Bank",
+            "name": "Kotak ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/Kotak+Mahindra+Bank+ATM/@28.6571199,77.2225846,16z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd05286a68ff:0xf2b3bede1b22c0ff!8m2!3d28.6598304!4d77.2318986!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11cntflndv?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "YES Bank",
+            "name": "YES Bank ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "https://www.google.com/maps/place/YES+BANK+ATM/@28.6485317,77.2234754,17z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd1fdd143409:0xf67384d3b64d1eb3!8m2!3d28.6485317!4d77.2275953!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F11jstzq9gl?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          },
+          {
+            "bank": "Union Bank of India",
+            "name": "Union Bank ATMs near Red Fort",
+            "opening_hours": "24x7 (varies by kiosk)",
+            "search_link": "google.com/maps/place/Union+Bank+of+India+ATM/@28.6571199,77.2225846,16z/data=!4m18!1m10!2m9!1satm!3m6!1satm!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfcdfdace929d:0xe77679776da0e436!8m2!3d28.6460328!4d77.2449028!15sCgNhdG2SAQNhdG2qAT4KCC9tLzBjbGR0EAEqByIDYXRtKAAyHhABIhrIMSbaG8XT9mw6H-2dB8tz3GUOSDDKWwv9fjIHEAIiA2F0beABAA!16s%2Fg%2F12hpp3p6s?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D"
+          }
+        ],
+        "example_user_queries": [
+          "Show ATMs near Red Fort",
+          "Find an SBI ATM near me",
+          "Is there an HDFC ATM close by?",
+          "Nearest PNB ATM to Red Fort",
+          "Axis Bank cash withdrawal around Chandni Chowk"
+        ]
+      },
+      "sources": []
+    },
+  {
+    "id": "red_fort",
+    "name": "Red Fort (Lal Qila)",
+    "category": [
+      "monument",
+      "historical site",
+      "archeological site"
+    ],
+    "location": {
+      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006"
+    },
+    "hours": [
+      {
+        "days": "Daily",
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "amenities": {},
+    "info": [
+      "Follow this link for online booking-> https://asi.payumoney.com/quick/red"
+    ],
+    "map_link": "https://www.google.com/maps/place/Red+Fort/@28.6519886,77.2316196,16z/data=!4m10!1m2!2m1!1sredfort!3m6!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203",
+    "extra": {
+      "pet_friendly": false,
+      "scams": [
+        "fake currency",
+        "online payments scam",
+        "taxi scams"
+      ],
+      "safety": "mildly safe",
+      "security": "high security",
+      "allowed": "phone, wallet, watch",
+      "prohibited": "weapons, explosives, drugs, alcohol, firearms, and sharp objects like knives and scissors",
+      "crowd_review": "largely positive",
+      "staff_behavior": "helpful and positive",
+      "maintenance": "bad maintenance",
+      "cleanliness": "unclean",
+      "traffic": "often congested",
+      "women_safety": "highly safe",
+      "bookings": "online and offline booking available",
+      "network": "generally strong",
+      "activity_type": [
+        "family friendly",
+        "sightseeing",
+        "monument watching"
+      ]
+    },
+    "sources": []
+  },
+  {
+    "id": "museum_1857_red_fort",
+    "name": "Museum on 1857 (Swatantrata Sangram Sanghralaya)",
+    "category": [
+      "museum",
+      "historical_site"
+    ],
+    "location": {
+      "address": "Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006"
+    },
+    "hours": [
+      {
+        "days": "Tuesday-Sunday",
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "amenities": {},
+    "info": "Located within the Red Fort complex, this museum highlights the events of the 1857 First War of Independence, showcasing weapons, documents, paintings, and artifacts related to India’s struggle for freedom.",
+    "map_link": "https://www.google.com/maps/place/Museum+On+1857-+India's+First+War+Of+Independence,+New+Delhi/@28.6565568,77.2394677,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "Be cautious of unauthorized guides around Red Fort claiming exclusive museum access.",
+      "safety": "Safe during visiting hours; standard CISF security within Red Fort premises.",
+      "security": "Bag checks and security screening at Red Fort entry gates.",
+      "allowed": [
+        "Photography without flash (in permitted areas)",
+        "Educational tours"
+      ],
+      "prohibited": [
+        "Touching exhibits",
+        "Flash photography",
+        "Food and drinks inside galleries"
+      ],
+      "crowd_review": "Moderately crowded on weekends; quieter than the main Red Fort areas.",
+      "staff_behavior": "Museum staff are informative and cooperative, often assisting students and tourists.",
+      "maintenance": "Displays and galleries are reasonably well-maintained by ASI.",
+      "cleanliness": "Generally clean, though crowd flow can affect cleanliness on busy days.",
+      "traffic": "Traffic congestion outside Red Fort during peak hours; inside complex movement is smooth.",
+      "women_safety": "Safe during visiting hours; families and school groups are common visitors.",
+      "bookings": {
+        "onsite": true,
+        "online": true,
+        "online_url": "https://asi.payumoney.com/quick/red"
+      },
+      "network": "Mobile networks available, though signal may weaken inside some galleries.",
+      "activity_type": [
+        "Historical exhibits",
+        "Freedom struggle displays",
+        "Educational tours"
+      ],
+      "last_verified_on": "2025-08-29"
+    },
+    "sources": [
+      "ASI official site",
+      "Delhi Tourism",
+      "Visitor reports"
+    ]
+  },
+  {
+    "id": "museum_of_illusions_new_delhi",
+    "name": "Museum of Illusions, New Delhi",
+    "category": [
+      "museum",
+      "attraction",
+      "family_activity"
+    ],
+    "location": {
+      "address": "A Block, A 30-33 1st Floor, Inner Cir, Connaught Place, New Delhi, Delhi 110001"
+    },
+    "hours": [
+      {
+        "days": "Monday-Sunday",
+        "open": "11:00",
+        "close": "20:00"
+      }
+    ],
+    "amenities": {},
+    "info": "The Museum of Illusions in Connaught Place features interactive and mind-bending exhibits designed for family entertainment, group visits, and educational experiences.",
+    "map_link": "A Block, A 30-33 1st Floor, Inner Cir, Connaught Place, New Delhi, Delhi 110001",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "Some visitors report being approached by touts outside Connaught Place offering fake discount tickets. Buy only from the official site or counter.",
+      "safety": "Safe for families and children; centrally located with good police presence.",
+      "security": "Bag checks at entry; general mall/complex security available.",
+      "allowed": [
+        "Photography inside exhibits",
+        "Carrying water bottles",
+        "Family/group visits"
+      ],
+      "prohibited": [
+        "Food and drinks inside exhibit halls",
+        "Pets",
+        "Sharp objects or large bags"
+      ],
+      "crowd_review": "Gets busy on weekends and school holidays; weekdays are calmer.",
+      "staff_behavior": "Staff are friendly, guide visitors to interactive exhibits, and often help with photos.",
+      "maintenance": "Well-maintained interactive exhibits with regular upkeep.",
+      "cleanliness": "Generally very clean; daily cleaning in public areas.",
+      "traffic": "Traffic in Connaught Place can be heavy, especially evenings; parking may be limited.",
+      "women_safety": "Safe environment; families and groups commonly visit.",
+      "bookings": {
+        "onsite": true,
+        "online": true,
+        "online_url": "https://museumofillusions.in/buy-tickets/"
+      },
+      "network": "Strong mobile networks; good 4G/5G coverage inside.",
+      "activity_type": [
+        "Interactive exhibits",
+        "Family entertainment",
+        "Photography"
+      ],
+      "last_verified_on": "2025-08-29"
+    },
+    "sources": [
+      "Museum of Illusions official site",
+      "Visitor reviews"
+    ]
+  },
+  {
+    "id": "netaji_subhas_chandra_bose_museum_red_fort",
+    "name": "Kranti Mandir – Netaji Subhas Chandra Bose Museum (Red Fort)",
+    "category": [
+      "museum",
+      "historical_site"
+    ],
+    "location": {
+      "address": "Lal Qila, Chandni Chowk, Delhi, 110006"
+    },
+    "hours": [
+      {
+        "days": "Tuesday-Sunday",
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "amenities": {},
+    "info": "Located within Red Fort’s Kranti Mandir complex, this museum is dedicated to Netaji Subhas Chandra Bose and the Indian National Army, showcasing artifacts, photographs, and documents from India’s independence movement.",
+    "map_link": "https://www.google.com/maps/place/Kranti+Mandir+Netaji+Subhas+Chandra+Bose+Museum+Red+Fort,+New+Delhi/@28.6582262,77.2394738,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "Beware of unauthorized guides outside Red Fort claiming paid entry to the museum; entry is included with Red Fort ticket.",
+      "safety": "Safe during visiting hours; CISF guards present throughout the Red Fort complex.",
+      "security": "Bag checks and metal detectors at Red Fort entry gates.",
+      "allowed": [
+        "Photography without flash (in permitted sections)",
+        "Educational tours",
+        "Student group visits"
+      ],
+      "prohibited": [
+        "Flash photography",
+        "Touching exhibits",
+        "Food and drinks inside museum"
+      ],
+      "crowd_review": "Moderately crowded on weekends; quieter on weekdays.",
+      "staff_behavior": "Courteous and informative; often assist school groups and tourists.",
+      "maintenance": "Exhibits are well-maintained, with regular updates by ASI.",
+      "cleanliness": "Generally very clean; daily housekeeping in galleries.",
+      "traffic": "Traffic congestion around Red Fort, especially during evenings and holidays.",
+      "women_safety": "Safe during visiting hours; families, groups, and students are common visitors.",
+      "bookings": {
+        "onsite": true,
+        "online": true,
+        "online_url": "https://www.trip.com/travel-guide/attraction/delhi/kranti-mandir-netaji-subhas-chandra-bose-museum-red-fort-new-delhi-136867760/?locale=en-XX&curr=USD"
+      },
+      "network": "Mobile networks available; may weaken inside thick-walled galleries.",
+      "activity_type": [
+        "Historical exhibits",
+        "Freedom movement displays",
+        "Educational tours"
+      ],
+      "last_verified_on": "2025-08-29"
+    },
+    "sources": [
+      "ASI official site",
+      "Delhi Tourism",
+      "Press releases on Kranti Mandir museums"
+    ]
+  },
+  {
+    "id": "drishyakala_museum_red_fort",
+    "name": "Drishyakala Museum (Red Fort)",
+    "category": [
+      "museum",
+      "art_gallery",
+      "historical_site"
+    ],
+    "location": {
+      "address": "Lal Qila, Chandni Chowk, Delhi, 110006"
+    },
+    "hours": [
+      {
+        "days": "Tuesday-Sunday",
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "amenities": {},
+    "info": "Drishyakala Museum, a collaboration between the Archaeological Survey of India and DAG, showcases Indian art spanning four centuries, including works of Raja Ravi Varma, Amrita Sher-Gil, and Company paintings.",
+    "map_link": "https://www.google.com/maps/place/Drishyakala+Museum/@28.656508,77.2423181,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "Avoid unofficial guides outside Red Fort offering special museum access for extra charges.",
+      "safety": "Safe for visitors; located within Red Fort premises with CISF security.",
+      "security": "Security checks at Red Fort gates; bag checks and frisking at entry.",
+      "allowed": [
+        "Photography without flash (in permitted areas)",
+        "Educational tours",
+        "Student group visits"
+      ],
+      "prohibited": [
+        "Flash photography",
+        "Food and drinks inside galleries",
+        "Touching artwork"
+      ],
+      "crowd_review": "Moderate visitor flow; popular with art and culture enthusiasts.",
+      "staff_behavior": "Friendly and informative; staff often guide visitors through art displays.",
+      "maintenance": "Well-maintained exhibits and displays curated in partnership with DAG.",
+      "cleanliness": "Clean galleries and visitor spaces; daily cleaning by staff.",
+      "traffic": "Traffic congestion around Red Fort main gates; inside movement is smooth.",
+      "women_safety": "Safe for women visitors; families and school groups are common.",
+      "bookings": {
+        "onsite": true,
+        "online": true,
+        "online_url": "https://asi.payumoney.com/quick/red"
+      },
+      "network": "Mobile network available; signal may weaken inside some areas.",
+      "activity_type": [
+        "Art exhibitions",
+        "Historical displays",
+        "Educational tours"
+      ],
+      "last_verified_on": "2025-08-29"
+    },
+    "sources": [
+      "ASI official site",
+      "Delhi Tourism"
+    ]
+  },
+    {
+      "id": "food_street_lal_masjid_chandni_chowk",
+      "name": "Food Street (Under Lal Masjid, Chandni Chowk)",
+      "category": [
+        "restaurant",
+        "street_food",
+        "mughlai",
+        "north_indian",
+        "chaat"
+      ],
+      "location": {"address":"Under Lal Masjid, 1901, Ajmere Gate Rd, near Chawri Bazar, Lal Kuan Bazar, Chandni Chowk, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "11:00",
+          "close": "23:00"
+        }
+      ],
+      "amenities": {},
+      "info": "Food Street under Lal Masjid is a bustling hub in Chandni Chowk famous for Mughlai delicacies, kebabs, chaats, and North Indian street food, offering a traditional Old Delhi culinary experience.",
+      "map_link": "https://www.google.com/maps/place/FOOD+STREET/@28.6561093,77.1091842,12z/data=!4m16!1m8!2m7!1sstreet+food!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd94064d9c39:0xf6c7d8b9eae31198!8m2!3d28.6536925!4d77.222413!15sCgtzdHJlZXQgZm9vZFoNIgtzdHJlZXQgZm9vZJIBCnJlc3RhdXJhbnSqAVkKCC9tLzAyd2JtCgkvbS8wNXhucWcQASoPIgtzdHJlZXQgZm9vZCgAMh4QASIamyOjnA8E_J4ys4FhMYdALo1dbaR4YE5V7TkyDxACIgtzdHJlZXQgZm9vZOABAA!16s%2Fg%2F11jyf34phk?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "Watch out for overcharging; confirm prices before ordering.",
+        "safety": "Crowded but generally safe; pickpocketing can occur in rush hours.",
+        "security": "Local police patrols nearby; no formal security.",
+        "allowed": [
+          "Photography of food stalls",
+          "Cash and UPI payments"
+        ],
+        "prohibited": [
+          "Pets inside food stalls",
+          "Large bags during peak hours"
+        ],
+        "crowd_review": "Extremely crowded in the evenings; popular with locals and tourists.",
+        "staff_behavior": "Vendors are busy but usually welcoming; service is fast-paced.",
+        "maintenance": "Basic street setup; limited seating arrangements.",
+        "cleanliness": "Varies; bustling street food environment with limited waste management.",
+        "traffic": "Very congested area; best reached on foot or rickshaw from Chawri Bazar metro.",
+        "women_safety": "Safe in groups during the day and early evening; avoid late-night visits due to crowd control issues.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Strong mobile signal; crowded network during peak times may slow data.",
+        "activity_type": [
+          "Street food tasting",
+          "Local dining",
+          "Cultural food walk"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Local food blogs",
+        "Delhi Tourism",
+        "Visitor experiences"
+      ]
+    },
+    {
+      "id": "kake_di_hatti_chandni_chowk",
+      "name": "Kake Di Hatti",
+      "category": [
+        "restaurant",
+        "street_food",
+        "north_indian",
+        "punjabi",
+        "vegetarian"
+      ],
+      "location": {"address":"Church Mission Rd, Cloth Market, Katra Ghel, Khari Baoli, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "08:00",
+          "close": "23:00"
+        }
+      ],
+      "amenities": {},
+      "info": "Kake Di Hatti, established in 1942, is a legendary eatery in Chandni Chowk famous for its oversized naans, creamy curries, and vegetarian Punjabi cuisine. A must-visit for authentic Old Delhi flavors.",
+      "map_link": "https://www.google.com/maps/place/Kake+Di+Hatti/@28.6561093,77.1091842,12z/data=!3m1!5s0x390cfd11ff7d0ca5:0x739da0ab93ff5694!4m17!1m9!2m8!1sstreet+food!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e5!3m6!1s0x390cfd1201dd15d3:0xb43a9ffba6a66207!8m2!3d28.6581323!4d77.2232464!15sCgtzdHJlZXQgZm9vZFoNIgtzdHJlZXQgZm9vZJIBF25vcnRoX2luZGlhbl9yZXN0YXVyYW50qgFZCggvbS8wMndibQoJL20vMDV4bnFnEAEqDyILc3RyZWV0IGZvb2QoADIeEAEiGpsjo5wPBPyeMrOBYTGHQC6NXW2keGBOVe05Mg8QAiILc3RyZWV0IGZvb2TgAQA!16s%2Fg%2F11gfh_tx50?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "No major scams reported, but area is crowded; avoid touts offering to 'reserve tables.'",
+        "safety": "Safe during the day; exercise caution with wallets and phones in crowded alleys.",
+        "security": "No formal security; general Old Delhi police patrol presence.",
+        "allowed": [
+          "Dine-in",
+          "Takeaway",
+          "UPI and cash payments"
+        ],
+        "prohibited": [
+          "Pets inside",
+          "Outside food"
+        ],
+        "crowd_review": "Very popular with locals and tourists; peak hours see long waits.",
+        "staff_behavior": "Staff are quick and attentive; service is efficient despite rush.",
+        "maintenance": "Basic seating arrangements; functional and well-kept for a heritage food joint.",
+        "cleanliness": "Reasonably clean for Chandni Chowk standards; hygiene is maintained but expect crowded conditions.",
+        "traffic": "Area is heavily congested; best reached on foot or rickshaw from nearby metro stations (Chandni Chowk or Chawri Bazar).",
+        "women_safety": "Safe in groups; like most of Chandni Chowk, better visited during the day/evening rather than late night.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Good mobile coverage; may slow during peak hours due to dense crowds.",
+        "activity_type": [
+          "Local dining",
+          "Food tasting",
+          "Cultural food walk"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Local food blogs",
+        "Delhi Tourism",
+        "Visitor experiences"
+      ]
+    },
+    {
+      "id": "nand_di_hatti_sadar_bazaar",
+      "name": "Nand Di Hatti",
+      "category": [
+        "restaurant",
+        "street_food",
+        "north_indian",
+        "punjabi",
+        "vegetarian",
+        "chaat"
+      ],
+      "location": {"address":"829 Pan Mandi, Sadar Bazaar, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "amenities": {},
+      "info": "Nand Di Hatti, a legendary outlet in Sadar Bazaar, has been serving its signature chole bhature and North Indian vegetarian delicacies for decades. A must-visit for Old Delhi street food lovers.",
+      "map_link": "https://www.google.com/maps/place/Nand+Di+Hatti/@28.6245265,77.1904081,14.27z/data=!4m6!3m5!1s0x390cfd6d6ffabb3b:0xefe6d72816516a12!8m2!3d28.6568464!4d77.215229!16s%2Fg%2F11bccm76v9?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "Some touts in the area may try to direct tourists to other eateries; stick to the marked shop.",
+        "safety": "Safe during daytime; bustling local market environment, so stay mindful of belongings.",
+        "security": "No formal security; police patrols in Sadar Bazaar area.",
+        "allowed": [
+          "Dine-in",
+          "Takeaway",
+          "Cash and UPI payments"
+        ],
+        "prohibited": [
+          "Pets inside",
+          "Outside food"
+        ],
+        "crowd_review": "Extremely popular; expect queues, especially during lunch hours.",
+        "staff_behavior": "Staff are brisk but friendly; service is fast-paced.",
+        "maintenance": "Basic old-style eatery; functional but not modern.",
+        "cleanliness": "Acceptably clean for a traditional bazaar joint, but very busy.",
+        "traffic": "Sadar Bazaar is highly congested; approach via rickshaw or walking from the nearest metro (Tis Hazari or Chawri Bazar).",
+        "women_safety": "Safe during the day; recommended to visit in groups due to the crowded market setting.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Mobile signal available but may weaken in congested bazaar lanes.",
+        "activity_type": [
+          "Street food tasting",
+          "Local dining"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Local food guides",
+        "Visitor experiences",
+        "Delhi food blogs"
+      ]
+    },
+    {
+      "id": "gianis_di_hatti_chandni_chowk",
+      "name": "Giani's Di Hatti",
+      "category": [
+        "restaurant",
+        "street_food",
+        "desserts",
+        "ice_cream",
+        "north_indian",
+        "vegetarian"
+      ],
+      "location": {"address":" Bagh Deewar, Katra Ghel, Fatehpuri, Chandni Chowk, Delhi, 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "10:00",
+          "close": "23:00"
+        }
+      ],
+      "amenities": {},
+      "info": "Giani's Di Hatti, established in 1956, is a famous Chandni Chowk dessert shop known for rabri falooda, lassi, ice creams, and traditional North Indian sweets.",
+      "map_link": "https://www.google.com/maps/place/Giani's+Di+Hatti/@28.6580938,77.2206715,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfdfba859650f:0x5cba9b8881a37a81!8m2!3d28.6580938!4d77.2232464!16s%2Fg%2F11jzhj8scw?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "Some touts in Chandni Chowk may misdirect tourists to other sweet shops; confirm the shop signage.",
+        "safety": "Safe during daytime; crowded at peak evening hours.",
+        "security": "No formal security, but local police presence in Chandni Chowk.",
+        "allowed": [
+          "Dine-in",
+          "Takeaway",
+          "Cash and UPI payments"
+        ],
+        "prohibited": [
+          "Pets inside",
+          "Outside food"
+        ],
+        "crowd_review": "Very busy in the evenings; extremely popular with locals for desserts.",
+        "staff_behavior": "Staff are efficient; service is quick due to high turnover.",
+        "maintenance": "Basic old Delhi shopfront; seating is minimal but functional.",
+        "cleanliness": "Clean for a busy sweet shop, though heavy crowds may affect it during peak hours.",
+        "traffic": "Surrounding Chandni Chowk lanes are heavily congested; best reached by metro (Chandni Chowk or Chawri Bazar) and walking.",
+        "women_safety": "Safe during the day and evening; avoid late-night stays as the market quiets down.",
+        "bookings": {
+          "onsite": true,
+          "online": false
+        },
+        "network": "Mobile networks generally strong in the area.",
+        "activity_type": [
+          "Dessert tasting",
+          "Street food",
+          "Local dining"
+        ],
+        "last_verified_on": "2025-08-29"
+      },
+      "sources": [
+        "Delhi food blogs",
+        "Local visitor reviews",
+        "Travel guides"
+      ]
+    },
+    {
+      "id": "cafe_delhi_heights_red_fort_visitor_center",
+      "name": "Cafe Delhi Heights (Visitor Center, RR Barracks, Red Fort)",
+      "category": [
+        "Cafe / Restaurant"
+      ],
+      "location": {"address":"68/1, First Floor, Janpath Rd, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001"},
+      "hours": "Tuesday–Sunday: 09:00 AM–09:00 PM (Closed on Mondays)",
+      "amenities": {},
+      "info": "India’s first cafe inside a national heritage monument, offering fusion cuisine in a Mughal-inspired ambiance amidst Red Fort’s RR Barracks Visitor Center.",
+      "map_link": "https://www.google.com/maps/place/Cafe+Delhi+Heights/@28.6395926,77.2179054,13.82z/data=!4m6!3m5!1s0x390cfd35c804a1a1:0xe374c47e935b9c3a!8m2!3d28.6279068!4d77.2198233!16s%2Fg%2F11f0_5xqfv?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high – located within Red Fort with heritage supervision",
+        "security": "strict (under Red Fort security protocols)",
+        "allowed": "dine-in, takeaway",
+        "prohibited": "outside food and drinks",
+        "crowd_review": "moderate – tourist-heavy site, but limited seating",
+        "staff_behavior": "courteous, generally praised",
+        "maintenance": "well-maintained, clean interiors",
+        "cleanliness": "high – maintained as part of heritage site",
+        "traffic": "moderate – steady tourist influx",
+        "women_safety": "good – within secure heritage premises",
+        "bookings": "not specified",
+        "network": "Cafe Delhi Heights chain",
+        "activity_type": "casual dining, tourist refreshment"
+      },
+      "sources": []
+    },
+    {
+      "id": "sambarpot_omaxe_chowk",
+      "name": "Sambarpot (Omaxe Chowk, FC-33, HC Sen Marg)",
+      "category": [
+        "Restaurant"
+      ],
+      "location": {"address":"Pink Line) MRTS Station, DMRC Phase III Corridor, FCCLGF09, Lower Gorund Floor, F & B Food Court, Pacific Mall, Netaji Subhash Place, Delhi, 110034"},
+      "hours": "09:00–23:00 daily",
+      "amenities": {},
+      "info": "Located on FC-33, inside Omaxe Chowk mall's food court area at HC Sen Marg, Old Delhi. Offers authentic South Indian fare.",
+      "map_link": "https://www.google.com/maps/place/SAMBARPOT/@28.6699114,77.1540469,13.16z/data=!4m6!3m5!1s0x390d035c3527c193:0xb71d2dd8a03faba9!8m2!3d28.6946159!4d77.1542861!16s%2Fg%2F11wqw2rcyq?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high—situated inside secure mall premises",
+        "security": "strict—mall has 3-tier security, CCTV, and valet services",
+        "allowed": "dine-in, takeaway, delivery",
+        "prohibited": "outside food/beverages inside",
+        "crowd_review": "very positive—rated ~4.8/5 on JustDial with over 1,800 ratings",
+        "staff_behavior": "courteous and prompt service noted by multiple reviewers",
+        "maintenance": "well-maintained interior",
+        "cleanliness": "clean and hygienic environment",
+        "traffic": "located in a busy mall, so foot traffic is high",
+        "women_safety": "good—well-lit, supervised mall areas",
+        "bookings": "available via phone or reservation",
+        "network": "Sambarpot restaurant chain",
+        "activity_type": "dining (South Indian cuisine)"
+      },
+      "sources": []
+    },
+    {
+      "id": "natraj_dahi_bhalla_corner_chandni_chowk",
+      "name": "Natraj Dahi Bhalla Corner",
+      "category": [
+        "Restaurant",
+        "Street Food"
+      ],
+      "location": {"address":"1396, Main Road, beside Central Bank, Kucha Mahajani, Chandni Chowk, New Delhi, Delhi 110006"},
+      "hours": "10:30 AM – 9:30 PM daily",
+      "amenities": {},
+      "info": "An iconic street-food outlet since 1940 located at Shop 1396, Main Road beside Central Bank opposite Paranthe Wali Gali, Chandni Chowk.",
+      "map_link": "https://www.google.com/maps/place/Natraj+Dahi+Bhalla/@28.6549817,77.2246952,15.8z/data=!4m6!3m5!1s0x390cfd1a59a9f5bb:0xb7cf4ece1ca590d6!8m2!3d28.6564636!4d77.230522!16s%2Fg%2F1tdb_08p?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—busy open-air environment in Old Delhi",
+        "security": "basic public surveillance; high crowd requires vigilance",
+        "allowed": "walk-in dine-in, takeaway",
+        "prohibited": "no digital payments—cash only",
+        "crowd_review": "very high—long queues especially during peak hours",
+        "staff_behavior": "efficient, though some complaints of slow service during rush",
+        "maintenance": "basic street stall setup",
+        "cleanliness": "average—typical of high-traffic street food zones",
+        "traffic": "heavy foot traffic from shoppers and tourists",
+        "women_safety": "moderate; crowded areas—stay alert",
+        "bookings": "not available",
+        "network": "Independent street food outlet",
+        "activity_type": "quick bites—Dahi Bhalla, Aloo Tikki, Chaat"
+      },
+      "sources": []
+    },
+    {
+      "id": "jung_bahadur_kachori_wala_chandni_chowk",
+      "name": "Jung Bahadur Kachori Wala",
+      "category": [
+        "Street Food",
+        "Restaurant"
+      ],
+      "location": {"address":"1104, Gali Bhojpura Rd, Kinari Bazar, Maliwara, Katra Shah N Shah, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "10:30 AM – 7:30 PM (closed Sundays)",
+      "amenities": {},
+      "info": "Legendary street food stall established in 1961; famous for Urad Dal Kachori served with spicy aloo sabzi and its signature chutney.",
+      "map_link": "https://www.google.com/maps/place/Jung+Bahadur+Kachori+Wala/@28.6556903,77.2274446,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd1a647aaabd:0x54a862800ea2aac9!8m2!3d28.6556903!4d77.2300195!16s%2Fg%2F1tnmq2q7?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—crowded Old Delhi street; keep an eye on belongings",
+        "security": "basic public surveillance; no dedicated security",
+        "allowed": "walk-in, takeaway",
+        "prohibited": "not applicable",
+        "crowd_review": "very high—long queues during peak hours",
+        "staff_behavior": "efficient, experienced at handling rush",
+        "maintenance": "basic street stall setup",
+        "cleanliness": "average—typical of busy street food outlets",
+        "traffic": "heavy foot traffic in narrow lanes",
+        "women_safety": "moderate—crowded; exercise caution",
+        "bookings": "not available",
+        "network": "Independent street food vendor",
+        "activity_type": "quick bites—kachori with aloo sabzi and chutney"
+      },
+      "sources": []
+    },
+    {
+      "id": "gali_paranthe_wali_chandni_chowk",
+      "name": "Gali Paranthe Wali",
+      "category": [
+        "Street Food",
+        "Restaurant"
+      ],
+      "location": {"address":"Paranthe Wali Gali, Maliwara, Old Delhi, New Delhi, Delhi, 110006"},
+      "hours": "09:00–23:00 (estimated)",
+      "amenities": {},
+      "info": "Historic narrow lane in Chandni Chowk known for parathas served since 1870s by long-standing family stalls offering a range of sweet, savory, and innovative parathas.",
+      "map_link": "https://www.google.com/maps/place/Paranthe+Wali+Gali+Chandni+chowk/@28.6562297,77.2281079,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd000174e34d:0x2a3409833985ed14!8m2!3d28.6562297!4d77.2306828!16s%2Fg%2F11y4v61dt2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—busy narrow lane; keep belongings secure",
+        "security": "basic public surveillance",
+        "allowed": "walk-in dining, takeaway",
+        "prohibited": "none specific, pickpocketing risk due to crowds",
+        "crowd_review": "very high footfall, popular with tourists and locals",
+        "staff_behavior": "swift, experienced vendors typical of heritage shops",
+        "maintenance": "basic street setup, but stalls maintained by long-standing families",
+        "cleanliness": "average—typical of bustling Old Delhi streets",
+        "traffic": "very heavy foot traffic",
+        "women_safety": "moderate—stay alert in the crowd",
+        "bookings": "not available",
+        "network": "Independent, family-run historical shops",
+        "activity_type": "street-food dining—various stuffed parathas"
+      },
+      "sources": []
+    },
+    {
+      "id": "old_famous_jalebi_wala_chandni_chowk",
+      "name": "Old Famous Jalebi Wala",
+      "category": [
+        "Street Food",
+        "Sweet Shop"
+      ],
+      "location": {"address":"1795, Dariba Corner, opp. Bank of Maharashtra, Dariba Kalan, Chandni Chowk, New Delhi, Delhi 110006"},
+      "hours": "08:00 AM – 10:00 PM daily",
+      "amenities": {},
+      "info": "Heritage jalebi stall dating back to 1884, located at Dariba Corner (Dariba Kalan Road, opposite Baptist Church), famous for its thick, crisp jalebis fried in desi ghee, served with rabri.",
+      "map_link": "https://www.google.com/maps/place/Old+Famous+Jalebi+Wala/@28.6560598,77.2309253,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd1b9943d5f7:0xd4d9597abbcb8086!8m2!3d28.6560598!4d77.2335002!16s%2Fg%2F1tp06g_p?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported, but pickpocketing risk due to crowds",
+        "safety": "moderate—crowded street food zone; secure belongings",
+        "security": "basic; public surveillance only",
+        "allowed": "cash-only walk-in and takeaway",
+        "prohibited": "digital payments (cash only)",
+        "crowd_review": "very high—frequently crowded and busy",
+        "staff_behavior": "courteous and efficient noted by many visitors",
+        "maintenance": "basic stall setup but functional",
+        "cleanliness": "fair—street-level hygiene typical of Old Delhi",
+        "traffic": "heavy foot traffic, especially during peak times",
+        "women_safety": "moderate—crowded setting, stay vigilant",
+        "bookings": "not available",
+        "network": "Independent, family-run historic shop",
+        "activity_type": "street-food sweet treats—jalebi and rabri"
+      },
+      "sources": []
+    },
+    {
+      "id": "aslam_chicken_chandni_chowk",
+      "name": "Aslam Chicken",
+      "category": [
+        "Restaurant",
+        "Street Food"
+      ],
+      "location": {"address":"1129, Matia Mahal Rd, Bazar Matia Mahal, Manohar Market, Jama Masjid, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "Approx. 4:00 PM – 12:30 AM daily",
+      "amenities": {},
+      "info": "Located at Shop Nos. 972–973, Bazar Matia Mahal, Jama Masjid Lane, Chandni Chowk, New Delhi – 110006. Famous for butter chicken in Old Delhi.",
+      "map_link": "https://www.google.com/maps/place/Aslam+Chicken/@28.6482001,77.2311375,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd18a300091f:0x3a83fb1d3b088cbf!8m2!3d28.6482001!4d77.2337124!16s%2Fg%2F11hcfqhgq1?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—crowded narrow lanes, stay alert",
+        "security": "basic public surveillance",
+        "allowed": "dine-in, takeaway",
+        "prohibited": "none specific",
+        "crowd_review": "very high footfall, especially evenings",
+        "staff_behavior": "noted as courteous and prompt",
+        "maintenance": "functional interior settings",
+        "cleanliness": "average; some complaints during peak hours",
+        "traffic": "heavy foot traffic; popular tourist spot",
+        "women_safety": "moderate; exercise caution in crowds",
+        "bookings": "not available",
+        "network": "Independent, family-run",
+        "activity_type": "dining (Mughlai, North Indian specialties)"
+      },
+      "sources": []
+    },
+    {
+      "id": "curzon_the_royal_bar",
+      "name": "Curzon – The Royal Bar",
+      "category": [
+        "Restaurant",
+        "Pub",
+        "Lounge Bar"
+      ],
+      "location": {"address":"19, Ansari Road, Ring Road, MGM Club, Daryaganj, Delhi, Daryaganj, Central Delhi, New Delhi, Delhi"},
+      "hours": "11:00 AM – 11:00 PM daily",
+      "amenities": {},
+      "info": "Located on the 3rd floor of MGM Residency, 19 Ansari Road, Daryaganj. Offers a full bar, a menu featuring Chinese and North Indian cuisine, and a relaxed lounge vibe.",
+      "map_link": "https://www.google.com/maps/place/Curzon+-+The+Royal+Bar/@28.6464719,77.2407627,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfcdfad3fb6c3:0xefd6023a5147654!8m2!3d28.6464719!4d77.2433376!16s%2Fg%2F11dxdcc0qy?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—typical urban dining area",
+        "security": "basic—no special security noted",
+        "allowed": "dine-in, bar service, takeaway, home delivery",
+        "prohibited": "none specific",
+        "crowd_review": "moderate—50 ratings, 3.7 average on JustDial",
+        "staff_behavior": "friendly and attentive according to reviews",
+        "maintenance": "well-kept interior",
+        "cleanliness": "clean and orderly",
+        "traffic": "moderate—on busy Ansari Road near MGM Club",
+        "women_safety": "moderate—standard urban conditions",
+        "bookings": "likely available by phone or online",
+        "network": "Independent fine-dining bar",
+        "activity_type": "dining, casual drinking, lounging"
+      },
+      "sources": []
+    },
+    {
+      "id": "sheesha_factory_lounge_daryaganj",
+      "name": "The Sheesha Factory Lounge",
+      "category": [
+        "Lounge Bar",
+        "Pub",
+        "Restaurant"
+      ],
+      "location": {"address":"2nd floor, 3601-15, Netaji Subhash Marg, opposite 24/7, Kucha Alam, Khabas Pura, Daryaganj, Delhi, New Delhi, Delhi 110002"},
+      "hours": "1:00 PM – 1:00 AM daily",
+      "amenities": {},
+      "info": "Lounge-bar located on 2nd Floor, 3601-15 Netaji Subhash Marg (Shyam Bhawan), Daryaganj, Delhi 110002. Offers sheesha and lounge seating.",
+      "map_link": "https://www.google.com/maps/place/The+sheesha+factory+lounge/@28.6436784,77.2376793,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd99d858f9f1:0x667cad139c6abbd!8m2!3d28.6436784!4d77.2402542!16s%2Fg%2F11v191dtg3?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—bustling area in Daryaganj, typical city precautions advised",
+        "security": "general public surveillance, no formal security listed",
+        "allowed": "dine-in, sheesha, drinks",
+        "prohibited": "standard no-smoking restrictions outside designated areas",
+        "crowd_review": "high—popular evening spot according to Instagram posts",
+        "staff_behavior": "not documented",
+        "maintenance": "well-kept interiors (inferred from lounge ambiance)",
+        "cleanliness": "not publicly specified",
+        "traffic": "moderate to heavy, located on Netaji Subhash Marg",
+        "women_safety": "moderate—public area in Delhi, stay alert",
+        "bookings": "not clearly specified (likely via phone)",
+        "network": "Independent lounge",
+        "activity_type": "dining, sheesha, casual evening lounging"
+      },
+      "sources": []
+    },
+    {
+      "id": "gauri_shankar_temple_chandni_chowk",
+      "name": "Gauri Shankar Temple",
+      "category": [
+        "Temple",
+        "Religious Place"
+      ],
+      "location": {"address":"Manohar Market, Hauz Qazi, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "5:00 AM–10:00 AM & 5:00 PM–10:00 PM",
+      "amenities": {},
+      "info": "One of the oldest Hindu temples in Chandni Chowk, reportedly ~800 years old, dedicated to Lord Shiva and Parvati—celebrated for its historic Shiva-Lingam and spiritual ambiance.",
+      "map_link": "https://www.google.com/maps/place/Shri+Gauri+Shankar+Temple/@28.6559281,77.2331725,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd507fc01cf1:0x72fd75bca9097af4!8m2!3d28.6559281!4d77.2357474!16s%2Fg%2F11kjlx32f_?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—busy heritage market area, pickpocket risk advised",
+        "security": "basic public surveillance",
+        "allowed": "visitors and devotees; photography allowed in non-restricted zones",
+        "prohibited": "disrespectful behavior inside sanctum",
+        "crowd_review": "high footfall, especially during festivals like Shivratri",
+        "staff_behavior": "devout caretakers—generally courteous",
+        "maintenance": "maintained; historic structure within bustling lanes",
+        "cleanliness": "moderate—temple interiors clean, surroundings busy",
+        "traffic": "very heavy—situated in narrow Chandni Chowk lanes",
+        "women_safety": "moderate; crowded settings—stay vigilant",
+        "bookings": "not required",
+        "network": "Independent heritage temple",
+        "activity_type": "worship, cultural heritage visit"
+      },
+      "sources": []
+    },
+    {
+      "id": "panch_pimpleshwar_madhav_mandir",
+      "name": "Panch Pimpleshwar Madhav Mandir",
+      "category": [
+        "Temple",
+        "Religious Place"
+      ],
+      "location": {"address":"Lal Qila, Chandni Chowk, Delhi, 110006"},
+      "hours": "Not publicly listed",
+      "amenities": {},
+      "info": "Hindu temple located at M65Q+99R, Lal Qila, Chandni Chowk, serving local devotees in the Red Fort vicinity.",
+      "map_link": "https://www.google.com/maps/place/Panch+Pimpleshwar+Madhav+Mandir/@28.6584856,77.235826,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd1d3dc86d75:0x77d56a1765076492!8m2!3d28.6584856!4d77.2384009!16s%2Fg%2F11b6hp4vkx?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "moderate—busy Old Delhi market area, stay alert",
+        "security": "basic public surveillance",
+        "allowed": "visitors and devotees; respectful conduct required",
+        "prohibited": "loud behavior, disrespect inside sanctum",
+        "crowd_review": "moderate footfall depending on timings",
+        "staff_behavior": "not documented",
+        "maintenance": "basic—consistent with neighborhood temples",
+        "cleanliness": "average—maintained but within crowded area",
+        "traffic": "very heavy pedestrian and vehicular traffic nearby",
+        "women_safety": "moderate; usual precautions advised",
+        "bookings": "not required",
+        "network": "Independent local temple",
+        "activity_type": "worship, religious visits"
+      },
+      "sources": []
+    },
+    {
+      "id": "indian_medical_store",
+      "name": "Indian Medical Store",
+      "category": [
+        "pharamcy",
+        "medical store"
+      ],
+      "location": {"address":"Alan Mahal, Shop No. 7/8, Machli Walan Jagat Cinema, near Kasturba Hospital Marg, Jama Masjid, Daryaganj, New Delhi, Delhi 110006"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "09:00",
+          "closes": "00:00"
+        }
+      ],
+      "amenities": {},
+      "info": "",
+      "map_link": "https://www.google.com/maps/place/India+Medical+Store/@28.6496674,77.2213379,15z/data=!4m10!1m2!2m1!1sindian+medical+store+near+red+fort!3m6!1s0x390cfd1f158b64db:0x5555c733360a8272!8m2!3d28.6496682!4d77.2365317!15sCiJpbmRpYW4gbWVkaWNhbCBzdG9yZSBuZWFyIHJlZCBmb3J0WiQiImluZGlhbiBtZWRpY2FsIHN0b3JlIG5lYXIgcmVkIGZvcnSSAQhwaGFybWFjeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VST00yWlBObFozRUFFqgFmEAEqGCIUaW5kaWFuIG1lZGljYWwgc3RvcmUoADIgEAEiHMLKLXZPfKyacd-fFv88yDZKOaqJFGj0jUCxe20yJhACIiJpbmRpYW4gbWVkaWNhbCBzdG9yZSBuZWFyIHJlZCBmb3J04AEA-gEECAAQHA!16s%2Fg%2F11sqczgm_9?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "",
+        "safety": "",
+        "security": "",
+        "allowed": "",
+        "prohibited": "",
+        "crowd_review": "All kind of medicines are available",
+        "staff_behavior": "Good",
+        "maintenance": "Great",
+        "cleanliness": "neat and clean",
+        "traffic": "Not much",
+        "women_safety": "",
+        "bookings": "",
+        "network": "",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "davaindia_generic_pharmacy",
+      "name": "davaindia GENERIC PHARMACY",
+      "category": [
+        "pharamcy",
+        "medical store"
+      ],
+      "location": {"address":"Ground Floor, Elgin Rd, Netaji Subhash Marg, Parda Bagh, Daryaganj, New Delhi, Delhi, 110002"},
+      "hours": [
+        {
+          "days": "Daily",
+          "open": "09:00",
+          "closes": "22:00"
+        }
+      ],
+      "amenities": {},
+      "info": "",
+      "map_link": "https://www.google.com/maps/place/davaindia+GENERIC+PHARMACY/@28.6497681,77.2065342,14z/data=!4m16!1m8!2m7!1smedical+shops!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd6e4642d62d:0xd4e268740a07a142!8m2!3d28.6497681!4d77.2394932!15sCg1tZWRpY2FsIHNob3BzWg8iDW1lZGljYWwgc2hvcHOSAQhwaGFybWFjeaoBSRABKhEiDW1lZGljYWwgc2hvcHMoADIfEAEiG4tTh4jKpNzHo4mXNGufvcAhGqyAzaHT8ibi8jIREAIiDW1lZGljYWwgc2hvcHPgAQA!16s%2Fg%2F11kp_95mhw?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "",
+        "safety": "",
+        "security": "",
+        "allowed": "",
+        "prohibited": "",
+        "crowd_review": "",
+        "staff_behavior": "Good",
+        "maintenance": "Good",
+        "cleanliness": "Great",
+        "traffic": "Depends on the working days",
+        "women_safety": "",
+        "bookings": "",
+        "network": "",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "prakash_medical_store",
+      "name": "Prakash Medical Store",
+      "category": [
+        "pharamcy",
+        "medical store"
+      ],
+      "location": {"address":"1915-A, Opp Gurudwara Sis Ganj, Chandni Chowk Rd, Chandni Chowk, New Delhi, Delhi 110006"},
+      "hours": [
+        {
+          "days": "Monday",
+          "open": "10:00",
+          "closes": "20:30"
+        },
+        {
+          "days": "Tuesday",
+          "open": "10:00",
+          "closes": "20:30"
+        },
+        {
+          "days": "Wednesday",
+          "open": "10:00",
+          "closes": "20:30"
+        },
+        {
+          "days": "Thursday",
+          "open": "10:00",
+          "closes": "20:30"
+        },
+        {
+          "days": "Friday",
+          "open": "10:00",
+          "closes": "20:30"
+        },
+        {
+          "days": "Saturday",
+          "open": "10:00",
+          "closes": "20:30"
+        }
+      ],
+      "amenities": {},
+      "info": "",
+      "map_link":"https://www.google.com/maps/place/Prakash+Medical+Store/@28.6564073,77.1996323,14z/data=!4m17!1m9!2m8!1smedical+shops!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!6e2!3m6!1s0x390cfd1b0781e607:0xf2920eb62def8674!8m2!3d28.6564073!4d77.2325913!15sCg1tZWRpY2FsIHNob3BzkgEIcGhhcm1hY3mqAUkQASoRIg1tZWRpY2FsIHNob3BzKAAyHxABIhuLU4eIyqTcx6OJlzRrn73AIRqsgM2h0_Im4vIyERACIg1tZWRpY2FsIHNob3Bz4AEA!16s%2Fg%2F12hvwfb4r?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D" ,
+      "extra": {
+        "pet_friendly": false,
+        "scams": "",
+        "safety": "",
+        "security": "",
+        "allowed": "",
+        "prohibited": "",
+        "crowd_review": "Sells genuine medicines with correct batch number and expiry date",
+        "staff_behavior": "Good",
+        "maintenance": "Great",
+        "cleanliness": "Good",
+        "traffic": "Usually there is less traffic but it may vary on the weekdays",
+        "women_safety": "",
+        "bookings": "",
+        "network": "",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+    "id": "indian_oil",
+    "name": "IndianOil",
+    "category": [
+      "petrol station"
+    ],
+    "location": {
+      "address": "Elgin Road, Netaji Subhash Marg, New Delhi, Delhi 110006"
+    },
+    "hours": [
+      {
+        "days": "Daily",
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "amenities": {},
+    "info": "Ground Floor, Netaji Subash Marg, Daryaganj Elgin Road, New Delhi - 110053. Phone: +91 95998 83481. Open 24 Hours.",
+    "map_link": "https://www.google.com/maps/place/IndianOil/@28.6499334,77.2230774,15z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "standard (typical petrol station in Delhi)",
+      "security": "basic site security; heightened security possible due to proximity to Red Fort",
+      "allowed": "vehicles, fuel, engine oil",
+      "prohibited": "open flames, unauthorized fueling",
+      "crowd_review": "not available",
+      "staff_behavior": "unknown",
+      "maintenance": "not available",
+      "cleanliness": "Good",
+      "traffic": "moderate to heavy, due to central location",
+      "women_safety": "not available",
+      "bookings": "not applicable",
+      "network": "IndianOil Coco Daryaganj network",
+      "activity_type": "not applicable"
+    },
+    "sources": []
+  },
+  {
+    "id": "hindustan_petroleum_corporation_limited",
+    "name": "Hindustan Petroleum Corporation Limited",
+    "category": [
+      "petrol station"
+    ],
+    "location": {
+      "address": "Ground Floor, Asaf Ali Rd, near Kamla Market, Kamla Market, Ajmeri Gate, New Delhi, Delhi, 110002"
+    },
+    "hours": [
+      {
+        "days": "not verified",
+        "open": null,
+        "close": null
+      }
+    ],
+    "amenities": {},
+    "info": "Located on Sham Nath Marg, Ludlow Castle area, Civil Lines, New Delhi -110054.",
+    "map_link": "https://www.google.com/maps/place/Hindustan+Petroleum+Corporation+Limited/@28.6440472,77.1605055,13z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "typical urban petrol station safety standards",
+      "security": "basic station security",
+      "allowed": "vehicles, petrol, diesel",
+      "prohibited": "open flames, unauthorized fueling",
+      "crowd_review": "not available",
+      "staff_behavior": "not documented",
+      "maintenance": "not available",
+      "cleanliness": "Good",
+      "traffic": "moderate to heavy, due to central location",
+      "women_safety": "not available",
+      "bookings": "not applicable",
+      "network": "not available",
+      "activity_type": "not applicable"
+    },
+    "sources": []
+  },
+  {
+    "id": "bharat_petroleum_petrol_pump_krishna_filling_station",
+    "name": "Bharat Petroleum, Petrol Pump-Krishna Filling Station",
+    "category": [
+      "petrol station"
+    ],
+    "location": {
+      "address": "Minto Rd, Kamla Market, Barakhamba, New Delhi, Delhi, 110001"
+    },
+    "hours": [
+      {
+        "days": "Daily",
+        "open": "06:00",
+        "close": "23:00"
+      }
+    ],
+    "amenities": {},
+    "info": "Located on Minto Road, Connaught Place, New Delhi - 110001, near Odeon Cinema.",
+    "map_link": "https://www.google.com/maps/place/Bharat+Petroleum,+Petrol+Pump+-Krishna+Filling+Station/@28.6416471,77.2234985,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "standard urban petrol station safety",
+      "security": "basic station security",
+      "allowed": "vehicles, petrol, diesel",
+      "prohibited": "open flames, container refills",
+      "crowd_review": "not available",
+      "staff_behavior": "not documented",
+      "maintenance": "not available",
+      "cleanliness": "Good",
+      "traffic": "moderate to heavy, due to central location",
+      "women_safety": "not available",
+      "bookings": "not applicable",
+      "network": "not available",
+      "activity_type": "not applicable"
+    },
+    "sources": []
+  },
+  {
+    "id": "bharat_petroleum_petrol_pump_rajinder_service_station",
+    "name": "Bharat Petroleum, Petrol Pump-Rajinder Service Station",
+    "category": [
+      "petrol station"
+    ],
+    "location": {
+      "address": "2, ALIPUR ROAD, Ludlow Castle, Civil Lines, Delhi, 110054"
+    },
+    "hours": [
+      {
+        "days": "Daily",
+        "open": "06:00",
+        "close": "23:00"
+      }
+    ],
+    "amenities": {},
+    "info": "Located at Ludlow Castle area, Civil Lines, New Delhi - 110054.",
+    "map_link": "https://www.google.com/maps/place/Bharat+Petroleum,+Petrol+Pump+-Rajinder+Service+Station/@28.6706238,77.2249901,18z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "standard urban petrol station safety",
+      "security": "basic station security",
+      "allowed": "vehicles, petrol, diesel",
+      "prohibited": "open flames, container refills",
+      "crowd_review": "not available",
+      "staff_behavior": "not documented",
+      "maintenance": "not available",
+      "cleanliness": "Good",
+      "traffic": "moderate to heavy, due to central location",
+      "women_safety": "not available",
+      "bookings": "not applicable",
+      "network": "not available",
+      "activity_type": "not applicable"
+    },
+    "sources": []
+  },
+  {
+    "id": "jama_masjid",
+    "name": "Jama Masjid",
+    "category": [
+      "metro station"
+    ],
+    "location": {
+      "address": "Chandni Chowk, Delhi, 110006"
+    },
+    "hours": [],
+    "amenities": {},
+    "info": "DMRC metro station located near Jama Masjid, part of Delhi Metro.",
+    "map_link": "https://www.google.com/maps/place/Jama+Masjid+metro+station/@28.651065,77.2340156,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "high - CCTV, CISF security, elevated crowd management",
+      "security": "strict (CISF may present, baggage checks, surveillance)",
+      "allowed": "authorized entry with valid ticket/smart card",
+      "prohibited": "eating, drinking, smoking inside station premises",
+      "crowd_review": "high footfall, especially during festivals and Ramadan",
+      "staff_behavior": "standard professional DMRC staff",
+      "maintenance": "well-maintained",
+      "cleanliness": "generally clean",
+      "traffic": "heavy, due to tourist influx and marketplace vicinity",
+      "women_safety": "good - step-free access, reserved coaches, accessible facilities",
+      "bookings": "not applicable",
+      "network": "Delhi Metro",
+      "activity_type": "public transit"
+    },
+    "sources": []
+  },
+  {
+    "id": "lal_quila",
+    "name": "Lal Quila",
+    "category": [
+      "metro station"
+    ],
+    "location": {
+      "address": "Angoori Bagh Rd, Netaji Subash Place, Lajpat Rai Market, Chandni Chowk, New Delhi, Delhi, 110006"
+    },
+    "hours": [],
+    "amenities": {},
+    "info": "DMRC metro station near Red Fort (Lal Quila).",
+    "map_link": "https://www.google.com/maps/place/Lal+Quila/@28.6568551,77.2347526,18z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "high - CCTV, CISF security, elevated crowd management",
+      "security": "strict (CISF may present, baggage checks, surveillance)",
+      "allowed": "authorized entry with valid ticket/smart card",
+      "prohibited": "eating, drinking, smoking inside station premises",
+      "crowd_review": "very busy, especially during tourist hours",
+      "staff_behavior": "standard professional DMRC staff",
+      "maintenance": "well-maintained",
+      "cleanliness": "generally clean",
+      "traffic": "heavy, due to tourists and local commuters",
+      "women_safety": "good - step-free access, reserved coaches, accessible facilities",
+      "bookings": "not applicable",
+      "network": "Delhi Metro",
+      "activity_type": "public transit"
+    },
+    "sources": []
+  },
+  {
+    "id": "chandni_chowk",
+    "name": "Chandni Chowk",
+    "category": [
+      "metro station"
+    ],
+    "location": {
+      "address": "Kaccha Bagh Area, Chandni Chowk, New Delhi, Delhi, 110006"
+    },
+    "hours": [],
+    "amenities": {},
+    "info": "Major DMRC metro station serving Chandni Chowk market and Red Fort area.",
+    "map_link": "https://www.google.com/maps/place/Chandni+Chowk+Metro+Station/@28.6586869,77.2261667,17z",
+    "extra": {
+      "pet_friendly": false,
+      "scams": "none reported",
+      "safety": "high - CCTV, CISF security, elevated crowd management",
+      "security": "strict (CISF may present, baggage checks, surveillance)",
+      "allowed": "ticketed commuters only",
+      "prohibited": "eating, drinking, smoking inside station premises",
+      "crowd_review": "very busy, especially during tourist hours",
+      "staff_behavior": "standard professional DMRC staff",
+      "maintenance": "well-maintained",
+      "cleanliness": "generally clean",
+      "traffic": "heavy, due to tourists and local commuters",
+      "women_safety": "good - step-free access, reserved coaches, accessible facilities",
+      "bookings": "not applicable",
+      "network": "Delhi Metro (Yellow Line)",
+      "activity_type": "public transit"
+    },
+    "sources": []
+  },
+    {
+      "id": "red_fort_bus_stand",
+      "name": "Red Fort Bus Stand",
+      "category": [
+        "bus stop"
+      ],
+      "location": {"address":"Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "Approx. 24/7 (public DTC services operate frequently throughout the day)",
+      "amenities": {},
+      "info": "Located immediately outside the Red Fort complex—serves numerous DTC bus routes offering access across Delhi.",
+      "map_link":"https://www.google.com/maps/place/Red+Fort/@28.6564042,77.1996323,14z/data=!4m16!1m8!2m7!1sbus+tand!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd1ce7e40a55:0x2aac2bd30c224e6f!8m2!3d28.657992!4d77.23717!15sCglidXMgc3RhbmSSAQhidXNfc3RvcKoBSgoIL20vMDFianYQASoNIglidXMgc3RhbmQoADIeEAEiGg_YB7e3HbvCtP9jH8w3PyDfhJ4YPQqvLocGMg0QAiIJYnVzIHN0YW5k4AEA!16s%2Fg%2F1tdsh4mr?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D" ,
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "moderate—standard open-air bus stop in a busy tourist area",
+        "security": "basic (general public surveillance, no dedicated security personnel)",
+        "allowed": "boarding and alighting of public buses",
+        "prohibited": "no waiting inside vehicles, no littering",
+        "crowd_review": "very high footfall—frequent tourist and commuter traffic",
+        "staff_behavior": "typical DTC service staff; varies",
+        "maintenance": "basic; standard city bus stop upkeep",
+        "cleanliness": "average; can get littered during peak periods",
+        "traffic": "heavy, especially during peak hours and holidays",
+        "women_safety": "generally moderate; crowded areas—stay alert",
+        "bookings": "not applicable",
+        "network": "Delhi Transport Corporation (DTC)",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "jama_masjid_bus_stand",
+      "name": "Jama Masjid Bus Stand",
+      "category": [
+        "bus stop"
+      ],
+      "location": {"address":"Meena Bazaar, Jama Masjid, Chandni Chowk, Delhi, 110006"},
+      "hours": "Approx. 24/7 (public DTC services operate frequently throughout the day)",
+      "amenities": {},
+      "info": "Located near Jama Masjid in Old Delhi, the bus stop serves numerous DTC routes connecting to landmarks like Red Fort, Old Delhi Railway Station, and beyond.",
+      "map_link": "https://www.google.com/maps/place/Jama+Masjid/@28.6512645,77.2326147,16z/data=!4m16!1m8!2m7!1sbus+stand!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd1e54df5b85:0x84d80976692ca917!8m2!3d28.651264!4d77.237809!15sCglidXMgc3RhbmSSAQhidXNfc3RvcKoBSgoIL20vMDFianYQASoNIglidXMgc3RhbmQoADIeEAEiGg_YB7e3HbvCtP9jH8w3PyDfhJ4YPQqvLocGMg0QAiIJYnVzIHN0YW5k4AEA!16s%2Fg%2F1hc6bp5sd?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "moderate—open-air stop with heavy pedestrian traffic",
+        "security": "basic (general public surveillance, no dedicated security personnel)",
+        "allowed": "boarding and alighting of public buses",
+        "prohibited": "no waiting inside vehicles, no littering",
+        "crowd_review": "very high footfall—frequent tourist and commuter traffic",
+        "staff_behavior": "typical DTC service staff; varies",
+        "maintenance": "basic; standard city bus stop upkeep",
+        "cleanliness": "average; can get littered during peak periods",
+        "traffic": "heavy, especially during market and prayer hours",
+        "women_safety": "generally moderate; crowded areas—stay alert",
+        "bookings": "not applicable",
+        "network": "Delhi Transport Corporation (DTC)",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "kouria_bridge_bus_stand",
+      "name": "Kouria Bridge Bus Stand",
+      "category": [
+        "bus stop"
+      ],
+      "location": {"address":"Baba More Sarai, Chandni Chowk, Delhi, 110006"},
+      "hours": "Approx. 24/7 (public DTC services operate frequently throughout the day)",
+      "amenities": {},
+      "info": "Public bus stop near Kouria Bridge on MG Road in Old Delhi, serving numerous DTC and cluster bus routes.",
+      "map_link": "https://www.google.com/maps/place/Kouria+Bridge/@28.66009,77.2124456,14z/data=!4m16!1m8!2m7!1sbus+stand!3m5!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd04ba615837:0x93d8418e49dde108!8m2!3d28.66009!4d77.234003!15sCglidXMgc3RhbmSSAQhidXNfc3RvcKoBSgoIL20vMDFianYQASoNIglidXMgc3RhbmQoADIeEAEiGg_YB7e3HbvCtP9jH8w3PyDfhJ4YPQqvLocGMg0QAiIJYnVzIHN0YW5k4AEA!16s%2Fg%2F11b7q10y8p?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "moderate - open-air stop, typical of Old Delhi curbside zones",
+        "security": "basic (general public surveillance, no dedicated security personnel)",
+        "allowed": "boarding and alighting of public buses",
+        "prohibited": "no littering, no trespassing within buses",
+        "crowd_review": "very high footfall—frequent tourist and commuter traffic",
+        "staff_behavior": "typical DTC service staff; varies",
+        "maintenance": "basic; standard city bus stop upkeep",
+        "cleanliness": "average; can get littered during peak periods",
+        "traffic": "heavy, especially during market and prayer hours",
+        "women_safety": "generally moderate; crowded areas—stay alert",
+        "bookings": "not applicable",
+        "network": "Delhi Transport Corporation (DTC)",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "red_fort_charkhe_walan_parking",
+      "name": "Red Fort Car Parking (Charkhe Walan)",
+      "category": [
+        "Parking Lot"
+      ],
+      "location": {"address":"402, Esplande Rd, Ram Bazar, Charkhe Walan, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "not specified",
+      "amenities": {},
+      "info": "Located at Ram Bazar, Charkhe Walan, Esplanade Road—close to Red Fort, used by tourists and shoppers.",
+      "map_link": "https://www.google.com/maps/place/Red+Fort+Car+Parking/@28.6533217,77.2353586,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd5c854519d9:0x74f7fd5a501f9818!8m2!3d28.6533217!4d77.2353586!16s%2Fg%2F11s2kd7s97?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "some vehicle damage reported by users",
+        "safety": "moderate—busy area, vigilance advised",
+        "security": "basic; no formal surveillance noted",
+        "allowed": "private vehicles (cars)",
+        "prohibited": "parking beyond time limits, unauthorized parking",
+        "crowd_review": "rated 3.8/5 based on 354 reviews",
+        "staff_behavior": "variable; not widely documented",
+        "maintenance": "basic; sufficient space but heavy traffic surrounding",
+        "cleanliness": "average—can get congested",
+        "traffic": "heavy, given its central Old Delhi location",
+        "women_safety": "moderate; stay alert amidst crowded environment",
+        "bookings": "not applicable",
+        "network": "private pay & park service",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "red_fort_parking_delhi_car_parking",
+      "name": "Delhi Car Parking",
+      "category": [
+        "Parking Lot"
+      ],
+      "location": {"address":"Zorawar Singh Marg, Chabi Ganj, Mori Gate, New Delhi, Delhi, 110006"},
+      "hours": "not specified",
+      "amenities": {},
+      "info": "Old delhi Car parking, please choose this parking if you want to go to platform number 16, bit crowdy place at the exit point.",
+      "map_link": "https://www.google.com/maps/place/Delhi+Car+Parking/@28.6622973,77.2160446,14z/data=!4m10!1m2!2m1!1scar+parking+near+Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi!3m6!1s0x390cfd045e8aac29:0xa407e142f46c1092!8m2!3d28.6622981!4d77.2332537!15sClljYXIgcGFya2luZyBuZWFyIFJlZCBGb3J0LCBOZXRhamkgU3ViaGFzaCBNYXJnLCBMYWwgUWlsYSwgQ2hhbmRuaSBDaG93aywgTmV3IERlbGhpLCBEZWxoaZIBC3BhcmtpbmdfbG90qgGXAQoHL20vMGs0ahABKg8iC2NhciBwYXJraW5nKAAyHxABIhvX46krE5qxVvSJBh6BFLKwHT0_9WigwdxB2KoyWBACIlRjYXIgcGFya2luZyBuZWFyIHJlZCBmb3J0IG5ldGFqaSBzdWJoYXNoIG1hcmcgbGFsIHFpbGEgY2hhbmRuaSBjaG93ayBuZXcgZGVsaGkgZGVsaGngAQA!16s%2Fg%2F11g7nv70qm?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "moderate—standard open-air parking",
+        "security": "basic; informal parking with no structured security",
+        "allowed": "private vehicles",
+        "prohibited": "long-term unauthorized parking",
+        "crowd_review": "not rated",
+        "staff_behavior": "not documented",
+        "maintenance": "not documented",
+        "cleanliness": "not documented",
+        "traffic": "moderate—adjacent to Red Fort entrance",
+        "women_safety": "moderate; typical tourist area caution advised",
+        "bookings": "not applicable",
+        "network": "local parking facility",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "red_fort_chandni_chowk_car_parking_area",
+      "name": "Chandni Chowk Car Parking Area",
+      "category": [
+        "Parking Lot"
+      ],
+      "location":{"address":"Charkhe Walan, Chandni Chowk, New Delhi, Delhi, 110006"} ,
+      "hours": "open 24/7",
+      "amenities": {},
+      "info": "If you have to visit Jama Masjid or Chandni Chowk Then definitely you can park here",
+      "map_link": "https://www.google.com/maps/place/Chandni+Chowk+Car+Parking/@28.6450303,77.1770469,13.03z/data=!4m12!1m2!2m1!1scar+parking+near+Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi!3m8!1s0x390cfd1c1cbca0f5:0x14a4917cd319a434!8m2!3d28.6540999!4d77.2355665!9m1!1b1!15sClljYXIgcGFya2luZyBuZWFyIFJlZCBGb3J0LCBOZXRhamkgU3ViaGFzaCBNYXJnLCBMYWwgUWlsYSwgQ2hhbmRuaSBDaG93aywgTmV3IERlbGhpLCBEZWxoaVpWIlRjYXIgcGFya2luZyBuZWFyIHJlZCBmb3J0IG5ldGFqaSBzdWJoYXNoIG1hcmcgbGFsIHFpbGEgY2hhbmRuaSBjaG93ayBuZXcgZGVsaGkgZGVsaGmSAQtwYXJraW5nX2xvdKoBlwEKBy9tLzBrNGoQASoPIgtjYXIgcGFya2luZygAMh8QASIb1-OpKxOasVb0iQYegRSysB09P_VooMHcQdiqMlgQAiJUY2FyIHBhcmtpbmcgbmVhciByZWQgZm9ydCBuZXRhamkgc3ViaGFzaCBtYXJnIGxhbCBxaWxhIGNoYW5kbmkgY2hvd2sgbmV3IGRlbGhpIGRlbGhp4AEA!16s%2Fg%2F11fx8cygwd?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "moderate; open public parking",
+        "security": "basic—general public surveillance",
+        "allowed": "vehicles (likely cars/motorcycles)",
+        "prohibited": "not documented",
+        "crowd_review": "Parking attendants are good, but beware of the car damages during the car parking. Space is tight and you are expected to be a driving expert in this car parking.",
+        "staff_behavior": "not documented",
+        "maintenance": "basic",
+        "cleanliness": "not documented",
+        "traffic": "Sometimes heavy",
+        "women_safety": "moderate; caution advised",
+        "bookings": "not applicable",
+        "network": "public/open-area parking",
+        "activity_type": ""
+      },
+      "sources": []
+    },
+    {
+      "id": "kasturba_hospital",
+      "name": "Kasturba Hospital",
+      "category": [
+        "Hospital"
+      ],
+      "location": {"address":"Gate No.1, Metro Station, Near, Kasturba Hospital Marg, Jama Masjid, Old Delhi, New Delhi, Delhi, 110006"},
+      "hours": "24/7 (emergency services year-round)",
+      "amenities": {},
+      "info": "Located near Jama Masjid Metro Station Gate 1 on Kasturba Hospital Marg, serving Old Delhi community.",
+      "map_link": "https://www.google.com/maps/place/Kasturba+Hospital/@28.6489277,77.1724944,13z/data=!4m16!1m8!2m7!1shospitals!3m5!2sRed+Fort!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd20987aa351:0xe968a705b8558593!8m2!3d28.6489277!4d77.2384124!15sCglob3NwaXRhbHOSARBnZW5lcmFsX2hvc3BpdGFsqgFKCggvbS8waHBuchABKg0iCWhvc3BpdGFscygAMh4QASIahBUzy1HmMGP9mw5B2aGwIS6ecPHy1IIqjzkyDRACIglob3NwaXRhbHPgAQA!16s%2Fg%2F1tdnjhkz?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none widely reported",
+        "safety": "high - medical facility with compliance to health protocols",
+        "security": "moderate (hospital security, general area surveillance)",
+        "allowed": "patients, visitors, ambulance services",
+        "prohibited": "nonessential loitering in treatment areas",
+        "crowd_review": "mixed—overcrowding noted",
+        "staff_behavior": "mixed; some positive feedback for care, some reports of rudeness",
+        "maintenance": "basic; functional but reportedly dated",
+        "cleanliness": "mixed; some reports of poor hygiene",
+        "traffic": "busy—central Old Delhi location",
+        "women_safety": "moderate; typical hospital setting in a crowded area",
+        "bookings": "appointments recommended to avoid wait times",
+        "network": "Government hospital network",
+        "activity_type": "medical consultation, emergency care, outpatient services"
+      },
+      "sources": []
+    },
+    {
+      "id": "lok_nayak_hospital",
+      "name": "Lok Nayak Hospital",
+      "category": [
+        "Hospital"
+      ],
+      "location": {"address":"metro Station Central, Jawaharlal Nehru Marg, near Delhi Gate, New Delhi, Delhi 110002"},
+      "hours": "Open 24/7",
+      "amenities": {},
+      "info": "Major multi-speciality government hospital (formerly Irwin Hospital) with ~1600 beds, Jawaharlal Nehru Marg, near Delhi Gate Metro Station.",
+      "map_link": "https://www.google.com/maps/place/Lok+Nayak+Hospital/@28.6489277,77.1724944,13z/data=!4m16!1m8!2m7!1shospitals!3m5!2sRed+Fort!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd27b3316b6d:0xa9d62fda6be69577!8m2!3d28.6388746!4d77.2382208!15sCglob3NwaXRhbHOSARNnb3Zlcm5tZW50X2hvc3BpdGFsqgFKCggvbS8waHBuchABKg0iCWhvc3BpdGFscygAMh4QASIahBUzy1HmMGP9mw5B2aGwIS6ecPHy1IIqjzkyDRACIglob3NwaXRhbHPgAQA!16s%2Fg%2F11dxdhkb8b?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high  government healthcare facility with emergency services",
+        "security": "moderate  hospital security plus public surveillance",
+        "allowed": "patients, visitors, ambulance services",
+        "prohibited": "nonessential loitering in treatment areas",
+        "crowd_review": "4.1/5 based on 4,429 ratings",
+        "staff_behavior": "generally courteous and prompt",
+        "maintenance": "well-maintained facility",
+        "cleanliness": "high standards maintained",
+        "traffic": "heavy traffic; central Old Delhi location near Delhi Gate",
+        "women_safety": "good-hospital setting in public area",
+        "bookings": "appointments supported; emergency always open",
+        "network": "Government of Delhi, affiliated with Maulana Azad Medical College",
+        "activity_type": "multi-specialty medical consultations, inpatient & emergency care"
+      },
+      "sources": []
+    },
+    {
+      "id": "sanjeevan_hospital",
+      "name": "Sanjeevan Hospital",
+      "category": [
+        "Hospital"
+      ],
+      "location": {"address":"24, Ansari Rd, Daryaganj, New Delhi, Delhi, 110002"},
+      "hours": "24/7 (emergency services and round-the-clock diagnostic support)",
+      "amenities": {},
+      "info": "Private multi-specialty hospital established 1983 by Dr. Prem Aggarwal; ~100 beds; located at 24, Ansari Road, Darya Ganj, New Delhi, 110002.",
+      "map_link": "https://www.google.com/maps/place/Sanjeevan+Hospital/@28.6489277,77.1724944,13z/data=!4m16!1m8!2m7!1shospitals!3m5!2sRed+Fort!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfcd97cfadb5b:0xeec8c89cdfac676d!8m2!3d28.6411631!4d77.2429845!15sCglob3NwaXRhbHOSARBwcml2YXRlX2hvc3BpdGFsqgFKCggvbS8waHBuchABKg0iCWhvc3BpdGFscygAMh4QASIahBUzy1HmMGP9mw5B2aGwIS6ecPHy1IIqjzkyDRACIglob3NwaXRhbHPgAQA!16s%2Fg%2F1tfkjk4z?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "high - multi-specialty private hospital with critical care facilities",
+        "security": "moderate - hospital security with CCTV and staff-controlled access",
+        "allowed": "patients, visitors, emergency ambulances",
+        "prohibited": "non-essential loitering, unauthorized access to clinical areas",
+        "crowd_review": "moderate - rated 3.9/5 based on 2,176 user reviews",
+        "staff_behavior": "mixed - several positive reviews, some complaints about staff attitude",
+        "maintenance": "good - well-equipped, clean infrastructure",
+        "cleanliness": "good - maintained, though isolated feedback on hygiene concerns",
+        "traffic": "heavy - located in busy Old Delhi neighborhood",
+        "women_safety": "good - formal hospital environment with staff presence",
+        "bookings": "appointments supported; walk-ins available in emergencies",
+        "network": "Private hospital network; NABH-accredited and CGHS/DGEHS panelled",
+        "activity_type": "multi-specialty outpatient, critical care, diagnostics, emergency"
+      },
+      "sources": []
+    },
+    {
+      "id": "jag_pravesh_chandra_hospital",
+      "name": "Jag Pravesh Chandra Hospital",
+      "category": [
+        "Hospital"
+      ],
+      "location": {"address":"Panduk Shila Marg, near Northern Engineering College, Shastri Park, Shahdara, New Delhi, Delhi, 110053"},
+      "hours": "Open 24*7 (Emergency and general services)",
+      "amenities": {},
+      "info": "Situated near Northern Engineering College and Seelampur Metro Station in Shastri Park, a multispecialty facility established in 2000.",
+      "map_link": "https://www.google.com/maps/place/Jag+Pravesh+Chandra+Hospital/@28.6764182,77.1970586,13z/data=!4m16!1m8!2m7!1shospitals!3m5!2sRed+Fort!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfc5e2d1ad07b:0xf62689cdd9ab9a64!8m2!3d28.6764182!4d77.2629766!15sCglob3NwaXRhbHOSARBnZW5lcmFsX2hvc3BpdGFsqgFKCggvbS8waHBuchABKg0iCWhvc3BpdGFscygAMh4QASIahBUzy1HmMGP9mw5B2aGwIS6ecPHy1IIqjzkyDRACIglob3NwaXRhbHPgAQA!16s%2Fg%2F1thp6cq0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "",
+        "scams": "none reported",
+        "safety": "high - government hospital with emergency care",
+        "security": "moderate—standard hospital security systems",
+        "allowed": "patients, visitors, emergency ambulances",
+        "prohibited": "non-essential loitering, unauthorized access to clinical areas",
+        "crowd_review": "3.9/5 based on ~600 reviews",
+        "staff_behavior": "mixed—some praise, some concerns noted",
+        "maintenance": "good—functional facility, basic infrastructure",
+        "cleanliness": "good - maintained, though isolated feedback on hygiene concerns",
+        "traffic": "heavy—busy area near metro and major roads",
+        "women_safety": "good—formal healthcare environment",
+        "bookings": "appointments supported; walk-ins available in emergencies",
+        "network": "Government of Delhi hospital network",
+        "activity_type": "emergency, outpatient, diagnostic services"
+      },
+      "sources": []
+    },
+    {
+      "id": "surya_hospital",
+      "name": "Surya Hospital",
+      "category": [
+        "hospital",
+        "multispecialty hospital"
+      ],
+      "location": {
+        "address": "383/11-C, East Azad Nagar, East Krishna Nagar, Block E, Krishna Nagar, New Delhi, Delhi, 110051"
+      },
+      "hours": "Open 24×7 (Emergency and general services)",
+      "amenities": {
+        "ambulance": true,
+        "diagnostic_lab": true,
+        "pharmacy": true,
+        "operation_theatre": true,
+        "x_ray": true,
+        "lift": true,
+        "parking": true,
+        "canteen": true,
+        "cctv": true,
+        "security_guard": true,
+        "nurse": true,
+        "information_desk": true,
+        "medical_room": true,
+        "electric_wheelchair": true,
+        "patient_ward": true,
+        "ecg": true
+      },
+      "info": "A 50-bed multispecialty hospital offering general surgery, orthopaedics, obstetrics, gastroenterology, diagnostics, and emergency care. Open 24×7 with ambulance service.",
+      "map_link":"https://www.google.com/maps/place/Surya+Hospital/@28.6629088,77.2198983,13z/data=!4m16!1m8!2m7!1shospitals!3m5!2sRed+Fort!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390d003815555555:0x7d366db1a07b7dfa!8m2!3d28.6629088!4d77.2858163!15sCglob3NwaXRhbHOSARBnZW5lcmFsX2hvc3BpdGFsqgFKCggvbS8waHBuchABKg0iCWhvc3BpdGFscygAMh4QASIahBUzy1HmMGP9mw5B2aGwIS6ecPHy1IIqjzkyDRACIglob3NwaXRhbHPgAQA!16s%2Fg%2F1th809yz?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": false,
+        "scams": "none reported",
+        "safety": "high – government-level healthcare setting",
+        "security": "standard hospital security systems in place",
+        "allowed": "patients, visitors, emergency ambulances",
+        "prohibited": "unauthorized access to clinical areas",
+        "crowd_review": "generally busy; emergency services critical",
+        "staff_behavior": "mixed reviews; experienced doctors with varying patient experiences",
+        "maintenance": "good – functional facility with necessary infrastructure",
+        "cleanliness": "good with standard hygiene measures",
+        "traffic": "heavy due to central location and proximity to metro",
+        "women_safety": "good – regulated healthcare environment",
+        "bookings": "appointments available; emergencies accepted walk-in",
+        "network": "integrated in local hospital network",
+        "activity_type": [
+          "Emergency care",
+          "Outpatient services",
+          "Inpatient care",
+          "Diagnostics"
+        ],
+        "last_verified_on": "2025-08-31"
+      },
+      "sources": [
+        "Surya Hospital official contact page",
+        "Practo listing",
+        "Joonsquare facilities listing",
+        "Hospitals Near Me directory"
+      ]
+    },
+
+    {
+      "id": "jama_masjid_police_station",
+      "name": "Jama Masjid Police Station",
+      "category": [
+        "Police Station"
+      ],
+      "location": {
+        "address":"Gate - 3, 1424, Patel Gali Rd, opposite Dariba Kalan Road, before, Jama Masjid, Old Delhi, New Delhi, Delhi, 110006"
+      },
+      "hours": "Open 24 hours, daily",
+      "amenities": {},
+      "info": "Official police station responsible for security around Jama Masjid and nearby Old Delhi areas.",
+      "map_link": "https://www.google.com/maps/place/Police+Station+Jama+Masjid/@28.6525864,77.2008048,14z/data=!4m17!1m9!2m8!1spolice+station!3m6!1spolice+station!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd1944ce270b:0x4ffc73c95ca3e28!8m2!3d28.6525864!4d77.2337638!15sCg5wb2xpY2Ugc3RhdGlvbpIBEXBvbGljZV9kZXBhcnRtZW50qgFKEAEqEiIOcG9saWNlIHN0YXRpb24oADIeEAEiGk03XJgB6VlcGBlUFx_Qd1fh-cEtUU90SGumMhIQAiIOcG9saWNlIHN0YXRpb27gAQA!16s%2Fg%2F11bzq3m5r7?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high - central police presence in busy tourist zone",
+        "security": "robust (CCTV coverage, active patrols)",
+        "allowed": "public visits for complaints, information, police assistance",
+        "prohibited": "unauthorized access to station interiors",
+        "crowd_review": "not rated",
+        "staff_behavior": "professional — typical Delhi Police interactions",
+        "maintenance": "well-maintained",
+        "cleanliness": "average—consistent with area activity",
+        "traffic": "very heavy—amid crowded Old Delhi lanes",
+        "women_safety": "good - police presence enhances safety",
+        "bookings": "not applicable",
+        "network": "Delhi Police, Central District",
+        "activity_type": "law enforcement, public assistance, tourist security"
+      },
+      "sources": []
+    },
+    {
+      "id": "chandni_mahal_police_station",
+      "name": "Chandni Mahal Police Station",
+      "category": [
+        "Police Station"
+      ],
+      "location": {"address":"1961, Asaf Ali Rd, near Delight Cinema, Bazar Chitli Qabar, Rakab Ganj, Chandni Mahal, Daryaganj, New Delhi, Delhi, 110006"},
+      "hours": "Open 24 hours daily",
+      "amenities": {},
+      "info": "Police station serving Chandni Mahal & Jama Masjid vicinity (near Delight Cinema, Asaf Ali Road, Delhi-110006).",
+      "map_link": "https://www.google.com/maps/place/Police+Station+Chandni+Mahal/@28.6525864,77.2008048,14z/data=!4m17!1m9!2m8!1spolice+station!3m6!1spolice+station!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd213f50844b:0x27b233d4296a7e21!8m2!3d28.6423802!4d77.2329355!15sCg5wb2xpY2Ugc3RhdGlvbpIBDnBvbGljZV9zdGF0aW9uqgFKEAEqEiIOcG9saWNlIHN0YXRpb24oADIeEAEiGk03XJgB6VlcGBlUFx_Qd1fh-cEtUU90SGumMhIQAiIOcG9saWNlIHN0YXRpb27gAQA!16s%2Fg%2F1v6l5wsx?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high - central police presence in heavily touristed area",
+        "security": "strong (CCTV, regular patrols, central jurisdiction)",
+        "allowed": "public visits for complaints and assistance",
+        "prohibited": "unauthorized access to secure areas",
+        "crowd_review": "3.5/5 (based on 19 ratings)",
+        "staff_behavior": "professional - consistent with Delhi Police standards",
+        "maintenance": "well-maintained premises",
+        "cleanliness": "average, typical for area activity levels",
+        "traffic": "very heavy - narrow, crowded Old Delhi lanes",
+        "women_safety": "good - police presence acts as a deterrent",
+        "bookings": "not applicable",
+        "network": "Delhi Police, Central District",
+        "activity_type": "law enforcement, public security, tourist safety"
+      },
+      "sources": []
+    },
+    {
+      "id": "darya_ganj_police_station",
+      "name": "Darya Ganj Police Station",
+      "category": [
+        "Police Station"
+      ],
+      "location": {"address":"First floor, 3490, Netaji Subhash Marg, Kucha Lal Man, Daryaganj, New Delhi, Delhi, 110002"},
+      "hours": "Open 24 hours daily",
+      "amenities": {},
+      "info": "Police station serving Daryaganj and surrounding Old Delhi areas, located at 3490, Netaji Subhash Marg, Kucha Lal Man, Daryaganj, New Delhi - 110002.",
+      "map_link": "https://www.google.com/maps/place/Police+Station+Darya+Ganj/@28.6525864,77.2008048,14z/data=!4m17!1m9!2m8!1spolice+station!3m6!1spolice+station!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfcd8a4430267:0xd5252c6cc829aff9!8m2!3d28.6420324!4d77.2408132!15sCg5wb2xpY2Ugc3RhdGlvbpIBEXBvbGljZV9kZXBhcnRtZW50qgFKEAEqEiIOcG9saWNlIHN0YXRpb24oADIeEAEiGk03XJgB6VlcGBlUFx_Qd1fh-cEtUU90SGumMhIQAiIOcG9saWNlIHN0YXRpb27gAQA!16s%2Fg%2F1wv_qlz0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "high - key police presence in central Old Delhi",
+        "security": "strong (CCTV, on-duty officers, frequent patrolling)",
+        "allowed": "public entry for complaints, FIR registration, assistance",
+        "prohibited": "unauthorized access to secure areas or records",
+        "crowd_review": "3.7/5 based on local reviews",
+        "staff_behavior": "professional; feedback mixed depending on case handling",
+        "maintenance": "functional - standard government facility",
+        "cleanliness": "average - maintained but area outside may be congested",
+        "traffic": "very heavy - Netaji Subhash Marg is a high-traffic zone",
+        "women_safety": "good - strong police presence offers    deterrence",
+        "bookings": "not applicable",
+        "network": "Delhi Police (Central District, Daryaganj Subdivision)",
+        "activity_type": "law enforcement, crime prevention, public assistance"
+      },
+      "sources": []
+    },
+    {
+      "id": "kotwali_police_station_chandni_chowk",
+      "name": "Kotwali Police Station",
+      "category": [
+        "Police Station"
+      ],
+      "location": {"address":"HC Sen Marg, Kaccha Bagh Area, Chandni Chowk, New Delhi, Delhi, 110006"},
+      "hours": "Open 24 hours daily",
+      "amenities": {},
+      "info": "Located at HC Sen Marg, Kaccha Bagh, Chandni Chowk - one of the key police stations managing law and order near Red Fort and Jama Masjid.",
+      "map_link": "https://www.google.com/maps/place/Police+Station+Kotwali/@28.6586456,77.2153411,15z/data=!4m17!1m9!2m8!1spolice+station!3m6!1spolice+station!2sRed+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006!3s0x390cfce26ec085ef:0x441e32f4fa5002fb!4m2!1d77.2410203!2d28.6561592!3m6!1s0x390cfd1ad1e74f51:0xaf54e91c7ae1f1d3!8m2!3d28.6586456!4d77.231158!15sCg5wb2xpY2Ugc3RhdGlvbpIBDnBvbGljZV9zdGF0aW9uqgFKEAEqEiIOcG9saWNlIHN0YXRpb24oADIeEAEiGk03XJgB6VlcGBlUFx_Qd1fh-cEtUU90SGumMhIQAiIOcG9saWNlIHN0YXRpb27gAQA!16s%2Fg%2F1ptwysn2c?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "extra": {
+        "pet_friendly": "no",
+        "scams": "none reported",
+        "safety": "very high - one of the oldest and most strategically important police stations near Red Fort",
+        "security": "strong - CISF/Delhi Police coordination, CCTV coverage, frequent patrolling",
+        "allowed": "public entry for complaints, FIR filing, law and order matters",
+        "prohibited": "unauthorized access to restricted police areas",
+        "crowd_review": "3.8/5 - generally functional, located in crowded Chandni Chowk",
+        "staff_behavior": "professional overall; feedback varies based on case handling",
+        "maintenance": "functional government facility, older infrastructure",
+        "cleanliness": "average - maintained but surrounded by high-footfall bazaar area",
+        "traffic": "extremely heavy - Chandni Chowk and HC Sen Marg are congested",
+        "women_safety": "good - constant police presence improves security for women",
+        "bookings": "not applicable",
+        "network": "Delhi Police (Central District, Kotwali Subdivision)",
+        "activity_type": "law enforcement, crime prevention, public safety"
+      },
+      "sources": []
+    }
+  ],
+  "relations": [
+    {
+      "from": "red_fort",
+      "to": "jama_masjid_delhi",
+      "relation": "nearby",
+      "distance_m": 1500,
+      "direction": "southwest",
+      "notes": "Accessible via walking or cycle rickshaw through Chandni Chowk."
+    },
+    {
+      "from": "red_fort",
+      "to": "gurudwara_sis_ganj_sahib",
+      "relation": "nearby",
+      "distance_m": 500,
+      "direction": "west",
+      "notes": "Located in Chandni Chowk; 5–7 min walk from Lahori Gate."
+    },
+    {
+      "from": "red_fort",
+      "to": "raj_ghat_delhi",
+      "relation": "nearby",
+      "distance_m": 3000,
+      "direction": "southeast",
+      "notes": "Located along Ring Road; ~10 min drive."
+    },
+    {
+      "from": "red_fort",
+      "to": "feroz_shah_kotla_fort",
+      "relation": "heritage_circuit",
+      "distance_m": 5000,
+      "direction": "south",
+      "notes": "Located near ITO; ~15 min by car depending on traffic."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_ajanta",
+      "relation": "nearby_hotel",
+      "distance_m": 2200,
+      "direction": "southwest",
+      "notes": "Located in Paharganj area near New Delhi Railway Station."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_gold_regency",
+      "relation": "nearby_hotel",
+      "distance_m": 2300,
+      "direction": "southwest",
+      "notes": "Hotel in Paharganj close to Ajanta."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_ritz",
+      "relation": "nearby_hotel",
+      "distance_m": 2500,
+      "direction": "southwest",
+      "notes": "Budget hotel in Paharganj."
+    },
+    {
+      "from": "red_fort",
+      "to": "mgm_club_society",
+      "relation": "nearby_hotel",
+      "distance_m": 3000,
+      "direction": "south",
+      "notes": "Club/guesthouse facility, approx. 3 km away."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_tara_palace_chandni_chowk",
+      "relation": "nearby_hotel",
+      "distance_m": 600,
+      "direction": "west",
+      "notes": "Closest hotel to Red Fort, inside Chandni Chowk."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_green_castle",
+      "relation": "nearby_hotel",
+      "distance_m": 700,
+      "direction": "west",
+      "notes": "Located near Chandni Chowk."
+    },
+    {
+      "from": "red_fort",
+      "to": "the_metrostay_delhi",
+      "relation": "nearby_hotel",
+      "distance_m": 1800,
+      "direction": "southwest",
+      "notes": "Near Delhi Metro hubs."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_ishaan_residency",
+      "relation": "nearby_hotel",
+      "distance_m": 2000,
+      "direction": "southwest",
+      "notes": "Paharganj locality."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_tara_palace_daryaganj",
+      "relation": "nearby_hotel",
+      "distance_m": 1200,
+      "direction": "south",
+      "notes": "Located in Daryaganj near Golcha Cinema."
+    },
+    {
+      "from": "red_fort",
+      "to": "the_comfort_inn",
+      "relation": "nearby_hotel",
+      "distance_m": 2000,
+      "direction": "southwest",
+      "notes": "Comfort Inn near Paharganj."
+    },
+    {
+      "from": "red_fort",
+      "to": "haveli_dharampura",
+      "relation": "nearby_hotel",
+      "distance_m": 500,
+      "direction": "west",
+      "notes": "Heritage boutique hotel in Gali Guliyan, Chandni Chowk."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_royal_palace",
+      "relation": "nearby_hotel",
+      "distance_m": 2100,
+      "direction": "southwest",
+      "notes": "Located in Paharganj."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_bukhara_inn",
+      "relation": "nearby_hotel",
+      "distance_m": 2300,
+      "direction": "southwest",
+      "notes": "Near New Delhi Railway Station."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_royal_afghan",
+      "relation": "nearby_hotel",
+      "distance_m": 2400,
+      "direction": "southwest",
+      "notes": "Paharganj side."
+    },
+    {
+      "from": "red_fort",
+      "to": "hotel_aiwan_e_shani",
+      "relation": "nearby_hotel",
+      "distance_m": 1400,
+      "direction": "south",
+      "notes": "Located in Daryaganj near Jama Masjid side."
+    },
+    {
+      "from": "red_fort",
+      "to": "shyama_inn",
+      "relation": "nearby_hotel",
+      "distance_m": 2600,
+      "direction": "southwest",
+      "notes": "Paharganj/New Delhi Railway Station area."
+    },
+    {
+      "from": "red_fort",
+      "to": "homestay_ac_dormitory",
+      "relation": "nearby_hotel",
+      "distance_m": 2700,
+      "direction": "southwest",
+      "notes": "Budget dormitory in Paharganj."
+    },
+    {
+      "from": "red_fort",
+      "to": "jinis_cottage",
+      "relation": "nearby_hotel",
+      "distance_m": 2800,
+      "direction": "southwest",
+      "notes": "Guesthouse-style accommodation near Paharganj."
+    },
+    {
+      "from": "red_fort",
+      "to": "indian_war_memorial_museum",
+      "relation": "nearby",
+      "distance_m": 753,
+      "direction": "https://www.google.com/maps/dir/'28.656159199999998,77.2410203'/M64R%2B89X+Indian+War+Memorial+Museum,+Red+Fort+Campus,+Old+Delhi,+New+Delhi,+Delhi+110006/@28.6541964,77.2368344,17z/data=!3m1!4b1!4m23!1m8!3m7!1s0x390cfd1d818f3a5d:0x508509cbf3ceb09a!2sIndian+War+Memorial+Museum!8m2!3d28.6558561!4d77.2409955!15sCh5tdXNldW1zIG5lYXIgcmVkIGZvcnQgbGFsIHFpbGFaICIebXVzZXVtcyBuZWFyIHJlZCBmb3J0IGxhbCBxaWxhkgEGbXVzZXVtmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU4xZGtsNWFucG5SUkFCqgFUEAEqCyIHbXVzZXVtcygAMh8QASIb-Zqwfg71M6960Yhi2H82istYiYvcoHWC__2lMiIQAiIebXVzZXVtcyBuZWFyIHJlZCBmb3J0IGxhbCBxaWxh4AEA-gEFCK4CEDE!16s%2Fm%2F0_gz6rz!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1d818f3a5d:0x508509cbf3ceb09a!2m2!1d77.240945!2d28.6558623!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Museum Nearby"
+    },
+    {
+      "from": "red_fort",
+      "to": "archeological_museum_red_fort",
+      "relation": "nearby",
+      "distance_m": 2200,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Archaeological+Museum+Red+Fort,+M64R%2B79X,+Lal+Qila,+Chandni+Chowk+Mumtaz+Mahal+Red+Fort,+New+Delhi,+Delhi+110006/data=!4m8!4m7!1m2!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!1m2!1m1!1s0x390cfce27365ff01:0x9ec19037cfb1aad6!3e0?sa=X&ved=1t:2040&ictx=111",
+      "notes": "Museum Nearby"
+    },
+    {
+      "from": "red_fort",
+      "to": "museum_1857_red_fort",
+      "relation": "inside",
+      "notes": "Located within the Red Fort complex",
+      "distance_m": 150,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Museum+on+1857+Red+Fort,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "museum_of_illusions_new_delhi",
+      "relation": "nearby",
+      "notes": "Located in Connaught Place, ~5 km from Red Fort",
+      "distance_m": 5000,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Museum+of+Illusions,+Connaught+Place,+New+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "netaji_subhas_chandra_bose_museum_red_fort",
+      "relation": "inside",
+      "notes": "Part of Kranti Mandir complex inside Red Fort",
+      "distance_m": 200,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Netaji+Subhas+Chandra+Bose+Museum,+Red+Fort,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "drishyakala_museum_red_fort",
+      "relation": "inside",
+      "notes": "Part of Kranti Mandir cultural initiative inside Red Fort",
+      "distance_m": 250,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Drishyakala+Museum,+Red+Fort,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "food_street_lal_masjid_chandni_chowk",
+      "relation": "nearby",
+      "notes": "Popular street food hub near Lal Masjid, Chandni Chowk",
+      "distance_m": 1200,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Food+Street,+Lal+Masjid,+Chandni+Chowk,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "kake_di_hatti_chandni_chowk",
+      "relation": "nearby",
+      "notes": "Famous Chandni Chowk eatery known for giant naans and Punjabi curries",
+      "distance_m": 1500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Kake+Di+Hatti,+Church+Mission+Rd,+Chandni+Chowk,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "nand_di_hatti_sadar_bazaar",
+      "relation": "nearby",
+      "notes": "Iconic Sadar Bazaar eatery famous for chole bhature",
+      "distance_m": 2500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Nand+Di+Hatti,+Pan+Mandi,+Sadar+Bazaar,+Delhi"
+    },
+    {
+      "from": "red_fort",
+      "to": "gianis_di_hatti_chandni_chowk",
+      "relation": "nearby",
+      "notes": "Legendary dessert shop near Fatehpuri, Chandni Chowk, famous for rabri falooda",
+      "distance_m": 1800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Delhi/Giani's+Di+Hatti,+Fatehpuri,+Chandni+Chowk,+Delhi"
+    },
+    {
+      "from": "Cafe Delhi Heights (Visitor Center, RR Barracks, Red Fort)",
+      "to": "cafe_delhi_heights_red_fort_visitor_center",
+      "relation": "located inside",
+      "distance_m": 1200,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Cafe+Delhi+Heights,+Visitor+Center,+RR+Barracks,+Lal+Qila,+Red+Fort,+Delhi,+110006/@28.6541964,77.2368344,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd45ec17cea1:0x11e66b7f259fc0f6!2m2!1d77.2401215!2d28.656346?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Situated inside the Red Fort complex at the Visitor Center in the R R Barracks."
+    },
+    {
+      "from": "Sambarpot (Omaxe Chowk, FC-33, HC Sen Marg)",
+      "to": "sambarpot_omaxe_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 2200,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/SAMBARPOT,+Omaxe+chowk,+FC+33,+HC+Sen+Marg,+Chhippy+Wada,+Old+Delhi,+New+Delhi,+Delhi,+110006/@28.6557451,77.2331226,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfde9718eb123:0xb159b0bc4fcb2fe7!2m2!1d77.2316088!2d28.6577086?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Located within Omaxe Chowk mall, which is about a 600 m (~7–8 min walk) from the Red Fort complex."
+    },
+    {
+      "from": "Natraj Dahi Bhalla Corner",
+      "to": "natraj_dahi_bhalla_corner_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 1600,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Natraj+Dahi+Bhalla,+1396,+Main+Road,+beside+Central+Bank,+Kucha+Mahajani,+Chandni+Chowk,+New+Delhi,+Delhi+110006/@28.6550382,77.2306186,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1a59a9f5bb:0xb7cf4ece1ca590d6!2m2!1d77.230522!2d28.6564636?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately a 7–10 minute walk (≈ 700 m) from the Red Fort entrance."
+    },
+    {
+      "from": "Jung Bahadur Kachori Wala",
+      "to": "jung_bahadur_kachori_wala_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 1400,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Jung+Bahadur+Kachori+Wala,+1104,+Gali+Bhojpura+Rd,+Kinari+Bazar,+Maliwara,+Katra+Shah+N+Shah,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/@28.6550382,77.2302894,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1a647aaabd:0x54a862800ea2aac9!2m2!1d77.2300195!2d28.6556903?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately an 11-minute walk (~805 m) from the Red Fort entrance."
+    },
+    {
+      "from": "Gali Paranthe Wali",
+      "to": "gali_paranthe_wali_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 1700,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Paranthe+Wali+Gali,+Chandni+Chowk,+Delhi,+110006/@28.6550382,77.2305677,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1a5fc13f73:0xba3a88724a5b3658!2m2!1d77.2305584!2d28.6560677?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 1.7 km—around a 20-minute walk from the Red Fort."
+    },
+    {
+      "from": "Old Famous Jalebi Wala",
+      "to": "old_famous_jalebi_wala_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Old+Famous+Jalebi+Wala,+1795,+Dariba+Corner,+opp.+Bank+of+Maharashtra,+Dariba+Kalan,+Chandni+Chowk,+New+Delhi,+Delhi+110006/@28.656222,77.2346853,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1b9943d5f7:0xd4d9597abbcb8086!2m2!1d77.2335002!2d28.6560598?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 800 m walk (~10–12 minutes) from the Red Fort entrance."
+    },
+    {
+      "from": "Aslam Chicken",
+      "to": "aslam_chicken_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 600,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Aslam+Chicken,+1129,+Matia+Mahal+Rd,+Bazar+Matia+Mahal,+Manohar+Market,+Jama+Masjid,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/@28.6521843,77.2346788,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd18a300091f:0x3a83fb1d3b088cbf!2m2!1d77.2337124!2d28.6482001?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately a 600 m walk (~8 min) from the Red Fort entrance."
+    },
+    {
+      "from": "Curzon - The Royal Bar",
+      "to": "curzon_the_royal_bar",
+      "relation": "landmark proximity",
+      "distance_m": 800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Curzon+-+The+Royal+Bar,+19,+Ansari+Road,+Ring+Road,+MGM+Club,+Daryaganj,+Delhi,+Daryaganj,+Central+Delhi,+New+Delhi,+Delhi/@28.6513249,77.2370301,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfcdfad3fb6c3:0xefd6023a5147654!2m2!1d77.2433376!2d28.6464719?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately a 16-minute walk (~1.6 km) from the Red Fort."
+    },
+    {
+      "from": "The Sheesha Factory Lounge",
+      "to": "sheesha_factory_lounge_daryaganj",
+      "relation": "landmark proximity",
+      "distance_m": 1500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/The+sheesha+factory+lounge,+2nd+floor,+3601-15,+Netaji+Subhash+Marg,+opposite+24%2F7,+Kucha+Alam,+Khabas+Pura,+Daryaganj,+Delhi,+New+Delhi,+Delhi+110002/@28.6513249,77.2370301,16z/data=!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd99d858f9f1:0x667cad139c6abbd!2m2!1d77.2402542!2d28.6436784?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately a 1.5 km walk (~18-20 minutes) from the Red Fort."
+    },
+    {
+      "from": "Red Resto Bar",
+      "to": "red_resto_bar_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 2500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi/Red+Resto+Bar,+Shop+No.5211,+Nigam+Market,+Shardanand+Marg,+G.B.+Road,+Farash+Khana,+Ajmeri+Gate,+New+Delhi,+Delhi,+110006/@28.6480813,77.2267884,16z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd14844ef81b:0x76649f3e45b86d89!2m2!1d77.2228852!2d28.6471734?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately a 2.5km drive (~8 minutes) to the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "gauri_shankar_temple_chandni_chowk",
+      "relation": "landmark proximity",
+      "distance_m": 250,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+New+Delhi/Gauri+Shankar+Temple,+Chandni+Chowk,+New+Delhi",
+      "notes": "Approximately a 3-minute walk (~250 m) from the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "panch_pimpleshwar_madhav_mandir",
+      "relation": "landmark proximity",
+      "distance_m": 100,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+New+Delhi/Panch+Pimpleshwar+Madhav+Mandir,+M65Q%2B99R+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi+110006",
+      "notes": "Approximately a 2-3 minute walk (~100 m) from the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "indian_medical_store",
+      "relation": "nearby",
+      "distance_m": 750,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/India+Medical+Store,+Alan+Mahal,+Shop+No.+7%2F8,+Machli+Walan+Jagat+Cinema,+near+Kasturba+Hospital+Marg,+Jama+Masjid,+Daryaganj,+New+Delhi,+Delhi+110006/@28.6522237,77.2336261,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1f158b64db:0x5555c733360a8272!2m2!1d77.2365317!2d28.6496682!3e9?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "nearest medical store"
+    },
+    {
+      "from": "red_fort",
+      "to": "jindal_medical_store",
+      "relation": "nearby",
+      "distance_m": 650,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/JINDAL+MEDICAL+STORE,+1701%2F2,+Bhagirath+Palace,+Chhippy+Wada,+Chandni+Chowk,+Delhi,+110006/@28.6569076,77.2326243,16z/data=!3m1!4b1!4m23!1m8!3m7!1s0x390cfdcd8f398c9b:0x660aa2f4464e3c90!2sJINDAL+MEDICAL+STORE!8m2!3d28.6579484!4d77.2346042!15sCg1tZWRpY2FsIHN0b3JlkgEVaW1wb3J0X2V4cG9ydF9jb21wYW55qgFSCggvbS8wNHNoMxABKhEiDW1lZGljYWwgc3RvcmUoADIeEAEiGpJXlyaHWxJXQ12PmwgdDOwwdfWtnAsdrE9HMhEQAiINbWVkaWNhbCBzdG9yZeABAA!16s%2Fg%2F11ghlwwk3f!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfdcd8f398c9b:0x660aa2f4464e3c90!2m2!1d77.2346042!2d28.6579484!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "nearest medical store"
+    },
+    {
+      "from": "red_fort",
+      "to": "davaindia_generic_pharmacy",
+      "relation": "nearby",
+      "distance_m": 950,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Ground+Floor,+davaindia+GENERIC+PHARMACY,+Elgin+Rd,+Netaji+Subhash+Marg,+Parda+Bagh,+Daryaganj,+New+Delhi,+Delhi,+110002/@28.6531153,77.2365011,17z/data=!3m1!4b1!4m23!1m8!3m7!1s0x390cfd6e4642d62d:0xd4e268740a07a142!2sdavaindia+GENERIC+PHARMACY!8m2!3d28.6497681!4d77.2394932!15sCg1tZWRpY2FsIHN0b3JlWg8iDW1lZGljYWwgc3RvcmWSAQhwaGFybWFjeaoBSBABKhEiDW1lZGljYWwgc3RvcmUoADIeEAEiGpJXlyaHWxJXQ12PmwgdDOwwdfWtnAsdrE9HMhEQAiINbWVkaWNhbCBzdG9yZeABAA!16s%2Fg%2F11kp_95mhw!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd6e4642d62d:0xd4e268740a07a142!2m2!1d77.2394932!2d28.6497681!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "nearest medical store"
+    },
+    {
+      "from": "red_fort",
+      "to": "prakash_medical_store",
+      "relation": "nearby",
+      "distance_m": 650,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Prakash+Medical+Store,+1915-A,+Opp+Gurudwara+Sis+Ganj,+Chandni+Chowk+Rd,+Chandni+Chowk,+New+Delhi,+Delhi+110006/@28.6562169,77.2265041,15z/data=!3m1!4b1!4m23!1m8!3m7!1s0x390cfd1b0781e607:0xf2920eb62def8674!2sPrakash+Medical+Store!8m2!3d28.6564073!4d77.2325913!15sCg1tZWRpY2FsIHN0b3JlkgEIcGhhcm1hY3mqAUgQASoRIg1tZWRpY2FsIHN0b3JlKAAyHhABIhqSV5cmh1sSV0Ndj5sIHQzsMHX1rZwLHaxPRzIREAIiDW1lZGljYWwgc3RvcmXgAQA!16s%2Fg%2F12hvwfb4r!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1b0781e607:0xf2920eb62def8674!2m2!1d77.2325913!2d28.6564073!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "nearest medical store"
+    },
+    {
+      "from": "red_fort",
+      "to": "indian_oil",
+      "relation": "nearby",
+      "distance_m": 800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/IndianOil,+Elgin+Road,+Netaji+Subhash+Marg,+New+Delhi,+Delhi+110006/@28.6530465,77.2377088,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1fc21498e1:0xbab0163201deee8!2m2!1d77.2395559!2d28.6499338!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 800 m walking distance from the Red Fort (near Daryaganj and Netaji Subhash Marg)."
+    },
+    {
+      "from": "red_fort",
+      "to": "hindustan_petroleum_corporation_limited",
+      "relation": "nearby",
+      "distance_m": 2500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Hindustan+Petroleum+Corporation+Limited,+Sham+Nath+Marg,+Ludlow+Castle,+Civil+Lines,+New+Delhi,+Delhi,+110054/@28.6642495,77.231146,13z/data=!3m1!4b1!4m23!1m8!3m7!1s0x390cfda7809d2bd1:0xa0975b483930683e!2sHindustan+Petroleum+Corporation+Limited!8m2!3d28.67008!4d77.22636!15sCgtwZXRyb2wgcHVtcFoNIgtwZXRyb2wgcHVtcJIBC2dhc19zdGF0aW9uqgFOCggvbS8wNXd5MhABKg8iC3BldHJvbCBwdW1wKAAyHhABIhpE3O3rBXYp1dvxkNrJSXh42p5W9ccQuYafJDIPEAIiC3BldHJvbCBwdW1w4AEA!16s%2Fg%2F11bwpzhrkb!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfda7809d2bd1:0xa0975b483930683e!2m2!1d77.22636!2d28.67008!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 800 m walking distance from the Red Fort (near Daryaganj and Netaji Subhash Marg)."
+    },
+    {
+      "from": "red_fort",
+      "to": "bharat_petroleum_petrol_pump_krishna_filling_station",
+      "relation": "nearby",
+      "distance_m": 3000,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Bharat+Petroleum,+Petrol+Pump+-Krishna+Filling+Station,+Minto+Rd,+Kamla+Market,+Barakhamba,+New+Delhi,+Delhi,+110001/@28.6478274,77.2157614,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd93c9ae64d7:0xf500534a803eec60!2m2!1d77.2260734!2d28.6416471!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Very close—situated near Odeon Cinema in Connaught Place."
+    },
+    {
+      "from": "red_fort",
+      "to": "bharat_petroleum_petrol_pump_rajinder_service_station",
+      "relation": "nearby",
+      "distance_m": 4400,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Bharat+Petroleum,+Petrol+Pump+-Rajinder+Service+Station,+2,+ALIPUR+ROAD,+Ludlow+Castle,+Civil+Lines,+Delhi,+110054/@28.6610586,77.2137726,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd483661b82d:0x8ad1cd2891fbe6ea!2m2!1d77.2260093!2d28.6711416!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 4.5 km south of the Red Fort area (straight-line estimate)"
+    },
+    {
+      "from": "red_fort",
+      "to": "jama_masjid",
+      "relation": "nearby",
+      "distance_m": 700,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Jama+Masjid,+Meena+Bazar,+Meena+Bazaar,+Jama+Masjid,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/@28.6530587,77.2336617,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1f09cf6709:0x523a2e0cdd989fcb!2m2!1d77.23802!2d28.64955!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 700 m walking distance from Red Fort via Gate 3."
+    },
+    {
+      "from": "red_fort",
+      "to": "lal_quila",
+      "relation": "nearby",
+      "distance_m": 250,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Lal+Quila,+Metro+Station+Lal+Qila,+Angoori+Bagh+Road,+Netaji+Subash+Place,+Lajpat+Rai+Market,+Chandni+Chowk,+New+Delhi,+Delhi/@28.6557354,77.2304039,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1ceee9c7e1:0x641302a14e35e765!2m2!1d77.2368125!2d28.6568551!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 247 m — about a 4-minute walk to Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "chandni_chowk",
+      "relation": "nearby",
+      "distance_m": 1500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Chandni+Chowk,+Kaccha+Bagh+Area,+Old+Delhi,+New+Delhi,+Delhi,+110006/@28.6580682,77.2253398,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1abebb50c7:0xee13fa53508b1544!2m2!1d77.2303565!2d28.6588265!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approx. 1.5 km walking distance to Red Fort (~20 min walk)."
+    },
+    {
+      "from": "red_fort",
+      "to": "red_fort_bus_stand",
+      "relation": "nearby",
+      "distance_m": 450,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Lal+Quila,+Charkhe+Walan,+Chandni+Chowk,+Delhi,+110006/@28.6552925,77.2335492,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1e9f02a457:0xab949674fed7ca96!2m2!1d77.2363779!2d28.6540176!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Just outside the Red Fort complex—roughly a 5-minute walk to the entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "jama_masjid_bus_stand",
+      "relation": "nearby",
+      "distance_m": 700,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Jama+Masjid,+Meena+Bazaar,+Jama+Masjid,+Chandni+Chowk,+Delhi,+110006/@28.6539157,77.2336617,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1e54df5b85:0x84d80976692ca917!2m2!1d77.237809!2d28.651264!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 8 minutes walk from the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "kouria_bridge_bus_stand",
+      "relation": "nearby",
+      "distance_m": 850,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Kouria+Bridge,+Mori+Gate,+Old+Delhi,+Delhi/@28.6581401,77.2322128,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd04b92901cb:0x5684728093102ad1!2m2!1d77.2337087!2d28.6603356!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately an 11-minute walk from red fort."
+    },
+    {
+      "from": "red_fort",
+      "to": "red_fort_charkhe_walan_parking",
+      "relation": "nearby",
+      "distance_m": 300,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Parking+entry+Gate,+Charkhe+Walan,+Chandni+Chowk,+Delhi/@28.6551128,77.2335187,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd3ab00cd0cf:0xa029aa3dcc6c5847!2m2!1d77.2363171!2d28.6536582!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Walkable distance to Red Fort entrance from Charkhe Walan area."
+    },
+    {
+      "from": "red_fort",
+      "to": "red_fort_parking_sunehri_masjid",
+      "relation": "nearby",
+      "distance_m": 100,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Sunehri+Masjid,+Nishad+Raj+Marg,+Lal+Qila,+Old+Delhi,+New+Delhi,+Delhi/@28.6533258,77.2377259,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1e2ed1ec0d:0xb341e6c5c83f65e7!2m2!1d77.2395814!2d28.6504924!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Just outside Sunehri Masjid—very near Lahori Gate entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "red_fort_mappls_parking_area",
+      "relation": "nearby",
+      "distance_m": 450,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+Delhi/@28.6529509,77.2367479,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1c48040d73:0x9646a0c797e5992e!2m2!1d77.2376253!2d28.6516194!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Right beside Red Fort along Netaji Subhash Marg; direct access."
+    },
+    {
+      "from": "red_fort",
+      "to": "kasturba_hospital",
+      "relation": "nearby",
+      "distance_m": 550,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Gate+No.1,+J6XQ%2BH5G+Kasturba+Hospital,+Metro+Station,+Near,+Kasturba+Hospital+Marg,+Jama+Masjid,+Old+Delhi,+New+Delhi,+Delhi,+110006/@28.6522238,77.2371414,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd20987aa351:0xe968a705b8558593!2m2!1d77.2384124!2d28.6489277!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 550 m (~10 min walk) to the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "lok_nayak_hospital",
+      "relation": "nearby",
+      "distance_m": 1800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Lok+Nayak+Hospital,+metro+Station+Central,+Jawaharlal+Nehru+Marg,+near+Delhi+Gate,+New+Delhi,+Delhi+110002/@28.6475,77.2323209,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd27b3316b6d:0xa9d62fda6be69577!2m2!1d77.2382208!2d28.6388746!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 1.8 km (about 25 min walk or a short metro ride)."
+    },
+    {
+      "from": "red_fort",
+      "to": "sanjeevan_hospital",
+      "relation": "nearby",
+      "distance_m": 1700,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Sanjeevan+Hospital,+24,+Ansari+Rd,+Daryaganj,+New+Delhi,+Delhi,+110002/@28.6478286,77.2327872,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfcd97cfadb5b:0xeec8c89cdfac676d!2m2!1d77.2429845!2d28.6411631!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 1800 m (22 minute walk) from the Red Fort complex."
+    },
+    {
+      "from": "red_fort",
+      "to": "jag_pravesh_chandra_hospital",
+      "relation": "nearby",
+      "distance_m": 6600,
+      "direction": "https://www.google.com/maps/dir/Red+Fort/Jag+Pravesh+Chandra+Hospital,+Panduk+Shila+Marg,+near+Northern+Engineering+College,+Shastri+Park,+Shahdara,+New+Delhi,+Delhi,+110053/@28.6638399,77.2068738,13z/",
+      "notes": "Approximately 6.5 km (~58 min walk or 20-25 min drive) to Red Fort."
+    },
+    {
+      "from": "red_fort",
+      "to": "jama_masjid_police_station",
+      "relation": "nearby",
+      "distance_m": 800,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Gate+-+3,+Police+Station+Jama+Masjid,+1424,+Patel+Gali+Rd,+opposite+Dariba+Kalan+Road,+before,+Jama+Masjid,+Old+Delhi,+New+Delhi,+Delhi,+110006/@28.654577,77.237294,15z/",
+      "notes": "Approximately 780 m (10-12 min walk) to Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "chandni_mahal_police_station",
+      "relation": "nearby",
+      "distance_m": 2500,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/Police+Station+Chandni+Mahal,+1961,+Asaf+Ali+Rd,+near+Delight+Cinema,+Bazar+Chitli+Qabar,+Rakab+Ganj,+Chandni+Mahal,+Daryaganj,+New+Delhi,+Delhi,+110006/@28.6478286,77.2289028,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd213f50844b:0x27b233d4296a7e21!2m2!1d77.2329508!2d28.6424142!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": ""
+    },
+    {
+      "from": "red_fort",
+      "to": "darya_ganj_police_station",
+      "relation": "nearby",
+      "distance_m": 1100,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/First+floor,+Police+Station+Darya+Ganj,+3490,+Netaji+Subhash+Marg,+Kucha+Lal+Man,+Daryaganj,+New+Delhi,+Delhi,+110002/@28.6490929,77.234937,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfcd8a4430267:0xd5252c6cc829aff9!2m2!1d77.2408216!2d28.6420328!3e0?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": "Approximately 1.2 km (15 minutes by walk or 5 minutes by vehicle) to the Red Fort entrance."
+    },
+    {
+      "from": "red_fort",
+      "to": "kotwali_police_station_chandni_chowk",
+      "relation": "nearby",
+      "distance_m": 1000,
+      "direction": "https://www.google.com/maps/dir/Red+Fort,+Netaji+Subhash+Marg,+Lal+Qila,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/M65J%2BFF3+Police+Station+Kotwali,+HC+Sen+Marg,+Kaccha+Bagh+Area,+Chandni+Chowk,+New+Delhi,+Delhi,+110006/@28.6580682,77.2257887,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!2m2!1d77.2410203!2d28.6561592!1m5!1m1!1s0x390cfd1ad1e74f51:0xaf54e91c7ae1f1d3!2m2!1d77.231158!2d28.6586456!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNy4wIKXMDSoASAFQAw%3D%3D",
+      "notes": ""
+    }
+  ]
+  
+}
